@@ -16,11 +16,12 @@
 # 📘 ブログ記事
 
 - [野中やすおのホームページ](https://nonakayasuo.com/)
-- [Linkedin](https://www.linkedin.com/in/yasuo-nonaka-a28932275/)
+- [Zenn](https://zenn.dev/nonakayasuo)
 
 # 📨 お問い合わせ
 
 - [野中やすおのホームページ](https://nonakayasuo.com/con-ta-ct/)
+- [Linkedin](https://www.linkedin.com/in/yasuo-nonaka-a28932275/)
 
 # GitHub Readme Stats
 
