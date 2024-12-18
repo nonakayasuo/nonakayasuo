@@ -8,7 +8,6 @@
     "ja-hiragana-hojodoushi": true,
     "ja-nakaguro-or-halfwidth-space-between-katakana": true,
     "ja-no-abusage": true,
-    "ja-no-mixed-period": true,
     "ja-no-redundant-expression": true,
     "ja-no-space-around-parentheses": true,
     "ja-no-space-between-full-width": true,
@@ -32,7 +31,7 @@
     },
     "max-kanji-continuous-len": {
       "max": 6,
-      "allow": ["普通自動車第一種運転免許"]
+      "allow": ["普通自動車第一種運転免許", "立命館大学大学院"]
     },
     "max-ten": true,
     "no-doubled-conjunction": true,
@@ -52,7 +51,7 @@
       "max": 150
     },
     "terminology": {
-      "defaultTerms": true
+      "defaultTerms": false
     },
     "use-si-units": {
       "allowedUnits": ["%"],
