@@ -25,11 +25,17 @@
 
 ### 言語
 
-Python、TypeScript、JavaScript、PHP
+- Python：４年
+
+- TypeScript：3 年半
+
+- PHP：数ヶ月
+
+- Ruby：数ヶ月
 
 ### フレームワーク等
 
-FastAPI、Flask、React.JS、Vue.JS、AngularJS、Laravel
+FastAPI、Flask、React.JS、Vue.JS、AngularJS、Laravel、Ruby on Rails
 
 ### 通信プロトコル
 
@@ -41,11 +47,11 @@ MySQL、PostgreSQL
 
 ### クラウド
 
-#### AWS
+#### AWS：　２年
 
 API Gateway、CloudFront, CodeBuild、CodePipeline、EC2、ECS、S3、Lambda、RDS、DynamoDB、Batch、Glue、ECR、EMR、CloudWatch、Athena、SES、SQS
 
-#### Google Cloud
+#### Google Cloud：　１年
 
 Cloud Build、Cloud Pub/Sub、Cloud Run、GKE
 
