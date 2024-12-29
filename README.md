@@ -22,6 +22,7 @@
 
 - [野中やすおのホームページ](https://nonakayasuo.com/con-ta-ct/)
 - [Linkedin](https://www.linkedin.com/in/yasuo-nonaka-a28932275/)
+- [Wantedly](https://www.wantedly.com/id/yasuo_nonaka_c)
 
 # GitHub Readme Stats
 
