@@ -12,6 +12,7 @@
 # 💼 職務経歴書
 
 - [サイト版](https://nonakayasuo.github.io/nonakayasuo/)
+- [pdf 版](https://github.com/nonakayasuo/nonakayasuo/releases/tag/v1.0.1)
 
 # 📘 ブログ記事
 
