@@ -1,29 +1,29 @@
 ![profile-views-counter](https://komarev.com/ghpvc/?username=nonakayasuo&color=green)
 
-[English](README.en.md) | 日本語
+English | [日本語](README.md)
 
-# 🌱 基本情報
+# 🌱 Basic Information
 
-- フリーランスエンジニア
+- Freelance Engineer
 
-# 🚀 スキル概要
+# 🚀 My Skill
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,rails,ts,js,html,css,react,nextjs,gatsbyjs,vue,nuxtjs,pinia,php,laravel,sass,tailwind,vite,webpack,mysql,postgres,firebase,docker,kubernetes,aws,gcp,git,github,githubactions,sentry,figma,wordpress" />
 
 
-# 💼 職務経歴書
+# 💼 My Resume
 
-- [サイト版](https://nonakayasuo.github.io/nonakayasuo/)
-- [PDF 版](https://github.com/nonakayasuo/nonakayasuo/releases/tag/v1.0.1)
+- [Site](https://nonakayasuo.github.io/nonakayasuo/)
+- [PDF](https://github.com/nonakayasuo/nonakayasuo/releases/tag/v1.0.1)
 
-# 📘 ブログ記事
+# 📘 My Blog
 
-- [野中やすおのホームページ](https://nonakayasuo.com/)
+- [Nonaka Yasuo’HP](https://nonakayasuo.com/)
 - [Zenn](https://zenn.dev/nonakayasuo)
 
-# 📨 お問い合わせ
+# 📨 Contact
 
-- [野中やすおのホームページ](https://nonakayasuo.com/con-ta-ct/)
+- [Nonaka Yasuo’HP](https://nonakayasuo.com/con-ta-ct/)
 - [Linkedin](https://www.linkedin.com/in/yasuo-nonaka-a28932275/)
 - [Wantedly](https://www.wantedly.com/id/yasuo_nonaka_c)
 
