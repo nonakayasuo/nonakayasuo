@@ -31,7 +31,7 @@
     },
     "max-kanji-continuous-len": {
       "max": 6,
-      "allow": ["普通自動車第一種運転免許", "立命館大学大学院"]
+      "allow": ["普通自動車第一種運転免許", "立命館大学大学院", "与信管理支援業務"]
     },
     "max-ten": true,
     "no-doubled-conjunction": true,
