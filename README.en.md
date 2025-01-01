@@ -13,7 +13,7 @@ English | [日本語](README.md)
 
 # 💼 My Resume
 
-- [Site](https://nonakayasuo.github.io/nonakayasuo/)
+- [Site](https://nonakayasuo.github.io/nonakayasuo/README.en.html)
 - [PDF](https://github.com/nonakayasuo/nonakayasuo/releases/tag/v1.0.1)
 
 # 📘 My Blog

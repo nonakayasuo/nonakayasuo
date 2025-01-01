@@ -68,3 +68,13 @@ Datadog, Docker, OpenAPI, Sentry, RSpec, Terraform
 ### Work Experience
 
 Same as Japanese version
+
+## My Hobbies
+
+- Reading books (around 300 books per year)
+- Traveling (visited all 47 prefectures in Japan and 29 countries/regions)
+- Shogi (Japanese chess, approximately 2nd Dan level)
+- Language learning (currently studying English, Chinese, Spanish, and Portuguese)
+- Running (aiming to complete a full marathon in 2025 with a sub-4-hour goal)
+- Playing the violin
+- Visiting museums and art galleries
