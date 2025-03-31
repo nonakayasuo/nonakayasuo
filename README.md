@@ -4,12 +4,12 @@
 
 # 🌱 基本情報
 
+- [株式会社 KANGEN Holdings](https://www.kangen-holdings.co.jp/) 社員
 - フリーランスエンジニア
 
 # 🚀 スキル概要
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,rails,ts,js,html,css,react,nextjs,gatsbyjs,vue,nuxtjs,pinia,php,laravel,sass,tailwind,vite,webpack,mysql,postgres,firebase,docker,kubernetes,aws,gcp,git,github,githubactions,sentry,figma,wordpress" />
-
 
 # 💼 職務経歴書
 

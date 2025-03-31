@@ -4,6 +4,7 @@ English | [日本語](README.md)
 
 # 🌱 Basic Information
 
+- [KANGEN Holdings Inc.](https://www.kangen-holdings.co.jp/) Employee
 - Freelance Engineer
 
 # 🚀 My Skill
