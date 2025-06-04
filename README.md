@@ -4,7 +4,7 @@
 
 # 🌱 基本情報
 
-- [株式会社 KANGEN Holdings](https://www.kangen-holdings.co.jp/) 社員
+- [アディクシィ株式会社](https://adixi.co.jp/) 社員
 - フリーランスエンジニア
 
 # 🚀 スキル概要
