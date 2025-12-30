@@ -66,9 +66,7 @@
 
 # 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonakayasuo&theme=onedark&border_radius=10&starting_year=2020" alt="GitHub Streak Stats" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nonnakayasuo&mode=weekly)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nonakayasuo&custom_title=nonakayasuo's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
