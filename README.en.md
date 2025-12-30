@@ -30,8 +30,8 @@ English | [日本語](README.md)
 
 # GitHub Readme Stats
 
-[![nonakayasuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonakayasuo&show_icons=true)](https://github.com/nonakayasuo)
+[![nonakayasuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonakayasuo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonakayasuo&langs_count=8&hide=html,css)](https://github.com/nonakayasuo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonakayasuo&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nonakayasuo&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
