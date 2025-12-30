@@ -24,7 +24,6 @@
 
 # 📨 お問い合わせ
 
-- [野中やすおのホームページ](https://nonakayasuo.com/con-ta-ct/)
 - [Linkedin](https://www.linkedin.com/in/yasuo-nonaka/)
 - [Wantedly](https://www.wantedly.com/id/yasuo_nonaka_c)
 
@@ -37,4 +36,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonakayasuo&langs_count=8&hide=html,css" />
 </a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nonakayasuo&theme=onedark&column=7&margin-w=15&margin-h=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nonakayasuo&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)

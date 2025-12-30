@@ -27,9 +27,9 @@
 
 ### 言語
 
-- Python：４年
+- Python：５年
 
-- TypeScript：3 年半
+- TypeScript：4 年半
 
 - Dart：数ヶ月
 
@@ -75,7 +75,7 @@ Cursor、Claude Code、Datadog、Docker、LangChain、MCP、OpenAPI、SQLAlchemy
 
 【雇用形態】フリーランス
 
-【在籍期間】2024/05 ~ 2025/03（10ヶ月）
+【在籍期間】2025/03 ~ 現在
 
 【チーム編成】
 
