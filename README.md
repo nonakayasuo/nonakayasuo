@@ -64,10 +64,20 @@
 - [Linkedin](https://www.linkedin.com/in/yasuo-nonaka/)
 - [Wantedly](https://www.wantedly.com/id/yasuo_nonaka_c)
 
-# GitHub Readme Stats
+# 📊 GitHub Analytics
 
-[![nonakayasuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonakayasuo)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonakayasuo&theme=onedark&border_radius=10&starting_year=2020" alt="GitHub Streak Stats" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonakayasuo)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nonakayasuo&custom_title=nonakayasuo's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+# 📈 GitHub Readme Stats
+
+[![nonakayasuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonakayasuo&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonakayasuo&langs_count=8&hide=html,css&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nonakayasuo&theme=onedark&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
