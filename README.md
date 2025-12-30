@@ -91,7 +91,7 @@
 # 🎵 Spotify Playing
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=nonakayasuo&count=1&unique=true" alt="Spotify Playing" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3125lfmlmavjnq53qdbitqbtw6s4&count=1&unique=true" alt="Spotify Playing" />
 </div>
 
 <div align="center">
