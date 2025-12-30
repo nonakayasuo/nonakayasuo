@@ -6,6 +6,7 @@
 
 - [アディクシィ株式会社](https://adixi.co.jp/) 社員
 - フリーランスエンジニア
+- [NewsLingua](https://newslingua.net/) を開発中（実用も兼ねて）
 
 # 🚀 スキル概要
 
@@ -18,8 +19,8 @@
 
 # 📘 ブログ記事
 
-- [野中やすおのホームページ](https://nonakayasuo.com/)
-- [Zenn](https://zenn.dev/nonakayasuo)
+- [note](https://note.com/nonaka_yasuo)
+- [Qiita](https://qiita.com/nonakayasuo)
 
 # 📨 お問い合わせ
 
@@ -36,4 +37,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonakayasuo&langs_count=8&hide=html,css" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nonakayasuo)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=nonakayasuo&theme=onedark&column=7&margin-w=15&margin-h=15)

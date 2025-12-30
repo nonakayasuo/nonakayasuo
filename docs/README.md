@@ -31,13 +31,15 @@
 
 - TypeScript：3 年半
 
+- Dart：数ヶ月
+
 - PHP：数ヶ月
 
 - Ruby：数ヶ月
 
 ### フレームワーク等
 
-FastAPI、Flask、React.JS、Vue.JS、AngularJS、Laravel、Ruby on Rails
+FastAPI、Flask、React.JS、Next.js、Vue.JS、AngularJS、Laravel、Ruby on Rails、Flutter
 
 ### 通信プロトコル
 
@@ -45,13 +47,13 @@ GraphQL、gRPC、REST
 
 ### RDB
 
-MySQL、PostgreSQL
+MySQL、PostgreSQL (pgvector)
 
 ### クラウド
 
 #### AWS：　２年
 
-API Gateway、CloudFront, CodeBuild、CodePipeline、EC2、ECS、S3、Lambda、RDS、DynamoDB、Batch、Glue、ECR、EMR、CloudWatch、Athena、SES、SQS
+API Gateway、CDK、CloudFormation、CloudFront、CodeBuild、CodePipeline、EC2、ECS、S3、Lambda、RDS、DynamoDB、Batch、Glue、ECR、EMR、CloudWatch、Athena、SES、SQS
 
 #### Google Cloud：　１年
 
@@ -63,9 +65,153 @@ CircleCI、Firebase、Firestore、GitHub、GitHub Action
 
 ### その他
 
-Datadog、Docker、OpenAPI、Sentry、RSpec、Terraform
+Cursor、Claude Code、Datadog、Docker、LangChain、MCP、OpenAPI、SQLAlchemy、Sentry、RSpec、Terraform
 
 ## 職務経歴詳細
+
+### 自社開発企業
+
+#### 大手製造業向けAI SaaS開発
+
+【雇用形態】フリーランス
+
+【在籍期間】2024/05 ~ 2025/03（10ヶ月）
+
+【チーム編成】
+
+- 開発：8名
+- 全体：12名
+
+【ステークホルダー】
+
+- クライアント x 数 社
+
+【言語・フレームワーク】
+
+- フロントエンド：TypeScript + Next.js
+- バックエンド：Python + FastAPI
+
+【インフラ】
+
+- AWS
+- PostgreSQL(pgvector)
+
+【通信プロトコル】
+
+- REST
+
+【ツール】
+
+- GitHub
+- Notion
+- Cursor
+- MCP (PostgreSQL等)
+- Docker
+- LangChain
+- LangGraph
+- LangSmith
+- OpenAI API
+- Azure OpenAI API
+- Claude Code
+- SQLAlchemy
+
+【主な業務】
+
+大手製造業向けAI SaaS開発案件において、社内文書・設計ドキュメントを対象としたRAGシステムの開発をTech Leadとして主導。
+
+【チームでの役割】
+
+- システム設計・アーキテクチャ：社内文書・設計ドキュメントを対象としたRAGシステムの全体設計を主導。FastAPIベースのバックエンド設計とPDFドキュメント解析からベクトル登録・検索までの処理パイプラインを構築。PostgreSQL(pgvector)を活用したベクトルストア設計により、大量の技術文書に対する効率的な検索基盤を実現
+
+- フロントエンド設計・実装：Next.jsを用いたメイン機能のフロントエンド実装を単独で担当。AIエージェントとのインタラクティブなチャットUIや検索結果の可視化機能を実装。バックエンドAPIとの連携部分を設計・実装し、ユーザーが直感的に操作できるインターフェースを実現
+
+- AIエージェント開発・検証：LangGraphを用いたエージェントフロー設計で、複雑な業務要件に対応する多段階推論プロセスを実装。製造業特有の専門用語・文脈を理解できるプロンプトエンジニアリングを実施。顧客の業務情報と擦り合わせながら、オントロジーレベルからグラフ検索の精度検証を実施し、ベクトル検索・グラフ検索・AIエージェントを組み合わせたハイブリッド検索機能を実装
+
+- ドメイン知識の構造化：業務領域ごとに特化したエージェントを設計し、適切な処理を分担させるマルチエージェントシステムを構築。チャンクデータの最適な分割戦略を検討し、コンテキスト保持と検索効率を両立
+
+【成果】
+
+- Tech Leadとして開発チームをリードし、大手製造業の業務要件に対応するRAGシステムを構築した。特に、顧客の実際の業務フローや専門用語の使われ方を深く理解することで、オントロジー設計から検索精度の検証まで一貫して担当し、実用的なハイブリッド検索システムを実現した
+
+- マルチエージェントアーキテクチャの設計では、各ドメインの特性を活かした処理分担、エージェント同士の協調機能、リフレクションの導入より、単一エージェントでは困難だった複雑な業務クエリへの対応を可能にした
+
+- プロンプト改善サイクルを構築し、チーム全体で継続的に検索精度を向上させる体制を確立した
+
+### 受託開発企業
+
+#### 中古車販売会社向けモバイルアプリ開発
+
+【雇用形態】フリーランス
+
+【在籍期間】2024/12 ~ 2025/02（3ヶ月）
+
+【チーム編成】
+
+- 開発：2名
+- 全体：4名
+
+【ステークホルダー】
+
+- クライアント x 1 社
+
+【言語・フレームワーク】
+
+- フロントエンド：Dart + Flutter
+- バックエンド：Python + FastAPI
+- Web：TypeScript + Next.js
+
+【インフラ】
+
+- AWS
+  - API Gateway
+  - EC2
+  - S3
+  - CloudFormation
+  - CDK
+  - Lambda
+  - RDS
+  - ECR
+  - CloudWatch
+  - SQS
+
+【RDB】
+
+- MySQL
+
+【通信プロトコル】
+
+- REST
+
+【ツール】
+
+- GitHub
+- Backlog
+- Terraform
+- Sentry
+
+【プラットフォーム】
+
+- iOS
+
+【主な業務】
+
+中古車販売会社向けモバイルアプリ受託開発案件において、Flutterを使用したiOSアプリ開発からAWSインフラの新規構築までフルスタックに対応。
+
+【チームでの役割】
+
+- iOSアプリ開発：Flutterを使用したiOSアプリ開発を担当。実際のユーザーと直接やり取りしながら、設計から実装までを担当し、ユーザーにとって直感的で使いやすいアプリケーションを提供することに注力
+
+- インフラ構築：API移管に伴うAWSの各種サービスインフラをゼロベースで構築および運用。AWS CloudFormationやCDKを利用したインフラのコード化を実施
+
+- チーム連携：スクラム開発の中でチームメンバー（PO、SM、Dev）と密に連携し、プロジェクト全体の円滑な進行に貢献
+
+【成果】
+
+- スクラムチームの一員として、iOSアプリ開発からAWSインフラの新規構築までフルスタックに対応した。特に、Flutterを用いたiOSアプリ開発では、実際のユーザーと直接やり取りしながら、設計から実装までを担当し、ユーザーにとって直感的で使いやすいアプリケーションを提供することに注力
+
+- AWSの各種サービスをゼロベースでインフラ構築することで新規APIの運用を実現した
+
+- スクラム開発の中でチームメンバー（PO、SM、Dev）と密に連携し、プロジェクト全体の円滑な進行に貢献
 
 ### 自社開発企業
 

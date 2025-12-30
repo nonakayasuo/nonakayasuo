@@ -6,6 +6,7 @@ English | [日本語](README.md)
 
 - [ADiXi Inc.](https://adixi.co.jp/) Employee
 - Freelance Engineer
+- Currently developing [NewsLingua](https://newslingua.net/) (for practical use as well)
 
 # 🚀 My Skill
 
@@ -19,8 +20,8 @@ English | [日本語](README.md)
 
 # 📘 My Blog
 
-- [Nonaka Yasuo’HP](https://nonakayasuo.com/)
-- [Zenn](https://zenn.dev/nonakayasuo)
+- [note](https://note.com/nonaka_yasuo)
+- [Qiita](https://qiita.com/nonakayasuo)
 
 # 📨 Contact
 
@@ -37,4 +38,4 @@ English | [日本語](README.md)
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonakayasuo&langs_count=8&hide=html,css" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nonakayasuo)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=nonakayasuo&theme=onedark&column=7&margin-w=15&margin-h=15)
