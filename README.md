@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+nonakayasuo+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+Engineer+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
+
 ![profile-views-counter](https://komarev.com/ghpvc/?username=nonakayasuo&color=green)
 
 [English](README.en.md) | 日本語
@@ -66,7 +74,7 @@
 
 # 📊 GitHub Analytics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nonnakayasuo&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nonakayasuo&theme=onedark&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nonakayasuo&custom_title=nonakayasuo's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -79,3 +87,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonakayasuo&langs_count=8&hide=html,css&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nonakayasuo&theme=onedark&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+# 🎵 Spotify Playing
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=nonakayasuo&count=1&unique=true" alt="Spotify Playing" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+</div>
