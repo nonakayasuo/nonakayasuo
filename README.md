@@ -29,8 +29,8 @@
 
 # GitHub Readme Stats
 
-[![nonakayasuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonakayasuo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![nonakayasuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonakayasuo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonakayasuo&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonakayasuo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nonakayasuo&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nonakayasuo)](https://github.com/ryo-ma/github-profile-trophy)
