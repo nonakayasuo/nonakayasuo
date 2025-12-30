@@ -10,7 +10,44 @@
 
 # 🚀 スキル概要
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,rails,ts,js,html,css,react,nextjs,gatsbyjs,vue,nuxtjs,pinia,php,laravel,sass,tailwind,vite,webpack,mysql,postgres,firebase,docker,kubernetes,aws,gcp,git,github,githubactions,sentry,figma,wordpress" />
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 💻 **プログラミング言語**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,dart,php,ruby" />
+
+### 🎨 **フロントエンド**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,html,css,sass,tailwind" />
+
+### ⚙️ **バックエンド**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,rails,laravel" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### ☁️ **クラウド & インフラ**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform" />
+
+### 🗄️ **データベース**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+
+### 🔧 **開発ツール & その他**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,figma" />
+
+</td>
+</tr>
+</table>
+
+### 🤖 **AI・機械学習関連**
+
+<img src="https://skillicons.dev/icons?i=python" /> LangChain, LangGraph, LangSmith, OpenAI API, Azure OpenAI API, Claude Code, MCP, Cursor
 
 # 💼 職務経歴書
 
@@ -33,4 +70,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonakayasuo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nonakayasuo)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nonakayasuo&theme=onedark&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
