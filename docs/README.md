@@ -27,9 +27,9 @@
 
 ### 言語
 
-- Python：５年
+- Python：6年
 
-- TypeScript：4 年半
+- TypeScript：5年半
 
 - Dart：数ヶ月
 
@@ -51,11 +51,11 @@ MySQL、PostgreSQL (pgvector)
 
 ### クラウド
 
-#### AWS：　２年
+#### AWS：　5年
 
-API Gateway、CDK、CloudFormation、CloudFront、CodeBuild、CodePipeline、EC2、ECS、S3、Lambda、RDS、DynamoDB、Batch、Glue、ECR、EMR、CloudWatch、Athena、SES、SQS
+API Gateway、Bedrock、CDK、CloudFormation、CloudFront、CodeBuild、CodePipeline、EC2、ECS、S3、Lambda、RDS、DynamoDB、Batch、Glue、ECR、EMR、CloudWatch、Athena、SES、SQS
 
-#### Google Cloud：　１年
+#### Google Cloud：　2年
 
 Cloud Build、Cloud Pub/Sub、Cloud Run、GKE
 
@@ -63,9 +63,13 @@ Cloud Build、Cloud Pub/Sub、Cloud Run、GKE
 
 CircleCI、Firebase、Firestore、GitHub、GitHub Action
 
+## AI
+
+Cursor、Claude Code、LangChain、LangGraph、LangSmith、MCP、Agent Skill、Azure OpenAI API、OpenAI API
+
 ### その他
 
-Cursor、Claude Code、Datadog、Docker、LangChain、MCP、OpenAPI、SQLAlchemy、Sentry、RSpec、Terraform
+Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
 
 ## 職務経歴詳細
 
@@ -73,7 +77,7 @@ Cursor、Claude Code、Datadog、Docker、LangChain、MCP、OpenAPI、SQLAlchemy
 
 #### 大手製造業向けAI SaaS開発
 
-【雇用形態】フリーランス
+【雇用形態】正社員
 
 【在籍期間】2025/03 ~ 現在
 
@@ -618,7 +622,7 @@ AI 技術を活用し、PoC（概念実証）として次の 2 種類のアプ�
 
 - React.js
 
-- Gasby
+- Gatsby
 
 - Jest
 
@@ -652,7 +656,7 @@ AI 技術を活用し、PoC（概念実証）として次の 2 種類のアプ�
 
 【チームでの役割】
 
-- React.js + Gasby を使用してフロントエンド開発を担当
+- React.js + Gatsby を使用してフロントエンド開発を担当
 
 - 設計書の作成および要件に沿った機能設計を実施
 
@@ -881,10 +885,11 @@ VBA を活用した業務効率化ツールの作成で、プロジェクトマ�
 
 ## 趣味
 
-- 読書(年間 300 冊程度)
-- 旅行(47 都道府県、29 カ国・地域訪問)
+- 読書(年間 300〜400 冊程度)
+- 旅行(47 都道府県、32 カ国・地域訪問)
 - 将棋(2 段程度)
-- 語学学習(英語、中国語、スペイン語、ポルトガル語を学習中)
-- ランニング(2025 年はフルマラソン完走したい、サブ４を目標)
+- 語学学習(英語、中国語、スペイン語を学習中)
+- ランニング
+- アコースティックギター
 - バイオリン
 - 博物館・美術館めぐり
