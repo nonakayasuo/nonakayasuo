@@ -586,31 +586,31 @@ Collected, analyzed, and visualized user investment data; generated individualiz
 
 **Employment type:** Full-time employee  
 
-**Period:** Mar 1, 2019 – Dec 31, 2020  
+**Period:** Jun 1, 2018 – Jul 31, 2018
 
 **Team**
 
-PM ×1, Engineers ×3 (4 total)  
+PM ×1, Engineers ×3 (4 total)
 
 **Stakeholders**
 
-1 client company  
+1 client company
 
 **Languages & frameworks**
 
-VBA  
+VBA
 
 **Infrastructure**
 
-N/A  
+N/A
 
 **Protocols**
 
-N/A  
+N/A
 
 **Tools**
 
-Excel  
+Excel
 
 **Summary**
 
