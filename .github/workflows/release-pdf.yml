@@ -45,11 +45,8 @@ jobs:
         uses: softprops/action-gh-release@e7a8f85e1c67a31e6ed99a94b41bd0b71bbee6b8 # v2
         with:
           tag_name: ${{ steps.version.outputs.tag }}
-          name: Resume PDF ${{ steps.version.outputs.tag }}
-          body: |
-            `docs/README.md` を [${{ github.sha }}](https://github.com/${{ github.repository }}/commit/${{ github.sha }}) でビルドした PDF です。
-
-            常に最新は [README.pdf（latest）](https://github.com/${{ github.repository }}/releases/latest/download/README.pdf) から取得できます。
+          name: ${{ steps.version.outputs.tag }}
+          body: ${{ github.event.head_commit.message }}
           draft: false
           prerelease: false
           make_latest: true

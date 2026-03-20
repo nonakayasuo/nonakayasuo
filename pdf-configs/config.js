@@ -6,6 +6,7 @@ const puppeteerCiArgs = [
 ];
 
 module.exports = {
+  document_title: "職務経歴書",
   stylesheet: "./pdf-configs/style.css",
   body_class: "markdown-body",
   launch_options: {
