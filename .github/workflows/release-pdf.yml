@@ -1,9 +1,14 @@
 name: Release PDF
 
 on:
-  pull_request:
+  push:
     branches: [main]
-    paths: ["docs/README.md"]
+    paths:
+      - "docs/README.md"
+      - "pdf-configs/**"
+      - ".github/workflows/release-pdf.yml"
+      - "package.json"
+      - "package-lock.json"
   workflow_dispatch:
 
 jobs:
@@ -13,7 +18,6 @@ jobs:
     timeout-minutes: 3
     permissions:
       contents: write
-      pull-requests: write
     steps:
       - name: Run actions/checkout
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
@@ -23,11 +27,17 @@ jobs:
         run: bun install --no-save
       - name: Run bun build:pdf
         run: bun build:pdf
-      - name: Create a draft release
+      - name: Publish release with PDF
         uses: softprops/action-gh-release@e7a8f85e1c67a31e6ed99a94b41bd0b71bbee6b8 # v2
         with:
-          body: ${{ github.event.pull_request.title }}
-          draft: true
+          tag_name: pdf-${{ github.sha }}
+          name: Resume PDF (${{ github.sha }})
+          body: |
+            `docs/README.md` を [${{ github.sha }}](https://github.com/${{ github.repository }}/commit/${{ github.sha }}) でビルドした PDF です。
+
+            常に最新は [README.pdf（latest）](https://github.com/${{ github.repository }}/releases/latest/download/README.pdf) から取得できます。
+          draft: false
+          prerelease: false
+          make_latest: true
           fail_on_unmatched_files: true
           files: docs/README.pdf
-          name: Release ${{ github.ref }}
