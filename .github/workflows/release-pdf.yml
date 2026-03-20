@@ -21,6 +21,20 @@ jobs:
     steps:
       - name: Run actions/checkout
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+        with:
+          fetch-tags: true
+      - name: Bump patch version
+        id: version
+        run: |
+          git fetch --tags
+          LATEST=$(git tag -l 'v[0-9]*.[0-9]*.[0-9]*' | sort -V | tail -n1)
+          if [ -z "$LATEST" ]; then
+            NEW_TAG="v1.0.0"
+          else
+            IFS='.' read -r major minor patch <<< "${LATEST#v}"
+            NEW_TAG="v${major}.${minor}.$((patch + 1))"
+          fi
+          echo "tag=$NEW_TAG" >> "$GITHUB_OUTPUT"
       - name: Run oven-sh/setup-bun
         uses: oven-sh/setup-bun@4bc047ad259df6fc24a6c9b0f9a0cb08cf17fbe5 # v2
       - name: Run bun install
@@ -30,8 +44,8 @@ jobs:
       - name: Publish release with PDF
         uses: softprops/action-gh-release@e7a8f85e1c67a31e6ed99a94b41bd0b71bbee6b8 # v2
         with:
-          tag_name: pdf-${{ github.sha }}
-          name: Resume PDF (${{ github.sha }})
+          tag_name: ${{ steps.version.outputs.tag }}
+          name: Resume PDF ${{ steps.version.outputs.tag }}
           body: |
             `docs/README.md` を [${{ github.sha }}](https://github.com/${{ github.repository }}/commit/${{ github.sha }}) でビルドした PDF です。
 
