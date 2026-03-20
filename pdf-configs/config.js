@@ -1,6 +1,16 @@
+/** Puppeteer on GitHub-hosted Ubuntu cannot use the Chromium sandbox (AppArmor / user namespaces). */
+const puppeteerCiArgs = [
+  "--no-sandbox",
+  "--disable-setuid-sandbox",
+  "--disable-dev-shm-usage",
+];
+
 module.exports = {
   stylesheet: "./pdf-configs/style.css",
   body_class: "markdown-body",
+  launch_options: {
+    args: process.env.CI ? puppeteerCiArgs : [],
+  },
   marked_options: {
     headerIds: false,
     smartypants: true,
