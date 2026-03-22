@@ -1,10 +1,13 @@
 ---
 layout: default
 title: Resume
+description: Resume of Yasuo Nonaka — full-stack engineer, Tokyo
 ---
-<!-- div 内は HTML でリンク -->
+<!-- Cayman は page.description が無いと site.description（日本語）をヘッダーに出すため、英語版では description を指定 -->
+<!-- Jekyll: front matter によりページとしてビルドされる。言語リンクは GitHub 表示でも効くよう絶対 URL -->
+<!-- div 内は Kramdown が Markdown 解釈しないため HTML でリンク -->
 <div class="web-only">
-  <p>English | <a href="https://nonakayasuo.github.io/nonakayasuo/">日本語</a></p>
+  <p>English | <a href="https://nonakayasuo.github.io/nonakayasuo/README.html">日本語</a></p>
 </div>
 
 # Resume
