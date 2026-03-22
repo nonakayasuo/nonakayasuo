@@ -4,9 +4,3 @@ description: 野中康生の職務経歴書
 # プロジェクトサイト（https://<user>.github.io/<repo>/）用。リポジトリ名と一致させる
 baseurl: "/nonakayasuo"
 url: "https://nonakayasuo.github.io"
-# フロントマター付き README.md をサイトルート index として配信（/nonakayasuo/ を 200 にする）
-defaults:
-  - scope:
-      path: "README.md"
-    values:
-      permalink: "/"
