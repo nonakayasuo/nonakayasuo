@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Resume
-description: Resume of Yasuo Nonaka — full-stack engineer, Tokyo
+title: Resume — Yasuo Nonaka
+description: Full-stack engineer, Tokyo — English resume.
 ---
-<!-- Cayman は page.description が無いと site.description（日本語）をヘッダーに出すため、英語版では description を指定 -->
 <!-- Jekyll: front matter によりページとしてビルドされる。言語リンクは GitHub 表示でも効くよう絶対 URL -->
 <!-- div 内は Kramdown が Markdown 解釈しないため HTML でリンク -->
 <div class="web-only">
-  <p>English | <a href="https://nonakayasuo.github.io/nonakayasuo/README.html">日本語</a></p>
+  <p>English | <a href="https://nonakayasuo.github.io/nonakayasuo/">日本語</a></p>
 </div>
 
 # Resume
@@ -22,12 +21,39 @@ description: Resume of Yasuo Nonaka — full-stack engineer, Tokyo
 | Education       | Ritsumeikan University Graduate School, Business Administration (MA)                       |
 | Certifications  | Ordinary Driver’s License, Securities Analyst (Japan), Level 2 Bookkeeping (Japan)         |
 
-## Areas of Interest
+---
 
-- Full-stack engineering (frontend, backend, cloud infrastructure design and development)
-- Technical leadership and problem-solving aligned with overall project direction
-- Web application architecture and end-to-end solution delivery
-- Learning and applying new technologies (AI, blockchain, design tools, etc.)
+## Professional summary
+
+I am a full-stack engineer with over seven years of experience, centered on Python and TypeScript. I work across the stack from frontend (Next.js, Vue.js, React) and backend (FastAPI, Flask) through cloud infrastructure design and operations, primarily on AWS.
+
+Most recently, as Tech Lead on an AI SaaS engagement for a large manufacturer, I led design and development of a RAG system using LangChain, LangGraph, and MCP. As a freelancer I have also contributed to mobile apps (Flutter / iOS), web applications, and data platform builds.
+
+I focus on applying AI, shaping architecture, and supporting engineering teams—taking work from PoC through production operations.
+
+---
+
+## Self-introduction
+
+I am a full-stack engineer who can own delivery from frontend and backend through cloud infrastructure and AI agent development. With Python and TypeScript as my core stack and over seven years of experience, I have recently led RAG system design and development as Tech Lead using LangChain, LangGraph, and MCP.
+
+On the technical side, I design and operate infrastructure on AWS (EC2, Lambda, ECS, CDK, and more) and Google Cloud (Cloud Run, GKE), implement frontends with Next.js, AngularJS, and Vue.js, and build backends with FastAPI and Flask. I actively adopt modern AI development tools such as Cursor and Claude Code.
+
+In my work I try to anticipate technical issues by looking at project-wide architecture, not only individual requirements. As Tech Lead I support teammates through technical guidance, code review, and design decisions to improve quality and productivity.
+
+I keep learning in AI, blockchain, design, and adjacent areas, and aim to choose the right technologies and deliver end-to-end solutions for business problems.
+
+---
+
+## What I want to do next
+
+As a full-stack engineer and Tech Lead I have led technical delivery for web applications, SaaS products, and internal DX initiatives. I still find engineering rewarding, and I want to use technology not only as an implementation tool but in ways that connect more deeply to **business decisions**.
+
+In particular, I want to work in a media or content company, understand market needs and business strategy, maximize product value from a technical perspective, and help drive business growth directly.
+
+I plan to apply my experience in application development and AI adoption, together with full-stack depth, to take stronger business-side ownership of outcomes and to keep tying technology to the core of the business.
+
+---
 
 ## Skills
 
@@ -69,7 +95,7 @@ Cloud Build, Cloud Pub/Sub, Cloud Run, GKE
 
 CircleCI, Firebase, Firestore, GitHub, GitHub Actions
 
-## AI
+### AI
 
 Cursor, Claude Code, LangChain, LangGraph, LangSmith, MCP, Agent Skills, Azure OpenAI API, OpenAI API
 

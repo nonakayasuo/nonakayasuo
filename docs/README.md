@@ -1,4 +1,6 @@
 ---
+title: 野中康生の職務経歴書
+description: フルスタックエンジニア（東京）。Python / TypeScript、クラウド・AI を中心とした職務経歴書。
 ---
 <!-- Jekyll: front matter によりページとしてビルドされる。言語リンクは GitHub 表示でも効くよう絶対 URL -->
 <!-- div 内は Kramdown が Markdown 解釈しないため HTML でリンク -->
