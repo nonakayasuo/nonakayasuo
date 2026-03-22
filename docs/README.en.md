@@ -1,4 +1,13 @@
-English | [日本語](README.md)
+---
+layout: default
+title: Resume
+---
+<!-- front matter により Jekyll が HTML に変換（README.en.html） -->
+<div class="web-only">
+
+English | [日本語]({{ site.baseurl }}/)
+
+</div>
 
 # Resume
 
