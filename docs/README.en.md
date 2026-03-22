@@ -2,11 +2,9 @@
 layout: default
 title: Resume
 ---
-<!-- front matter により Jekyll が HTML に変換（README.en.html） -->
+<!-- div 内は Markdown リンクが効かないため HTML で戻り先を指定 -->
 <div class="web-only">
-
-English | [日本語]({{ site.baseurl }}/)
-
+  <p>English | <a href="{{ site.baseurl }}/">日本語</a></p>
 </div>
 
 # Resume

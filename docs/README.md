@@ -1,8 +1,6 @@
+<!-- div 内は Kramdown が Markdown 解釈しないため HTML でリンクする（Pages 用） -->
 <div class="web-only">
-
-<!-- GitHub Pages（Jekyll）は .md ではなく生成後の .html へリンクする。index は README.md 由来 -->
-[English](README.en.html) | 日本語
-
+  <p><a href="README.en.html">English</a> | 日本語</p>
 </div>
 
 # 職務経歴書
