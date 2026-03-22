@@ -4,7 +4,7 @@ title: Resume
 ---
 <!-- div 内は HTML でリンク -->
 <div class="web-only">
-  <p>English | <a href="{{ '/' | relative_url }}">日本語</a></p>
+  <p>English | <a href="https://nonakayasuo.github.io/nonakayasuo/">日本語</a></p>
 </div>
 
 # Resume

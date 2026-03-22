@@ -1,9 +1,9 @@
 ---
 ---
-<!-- Jekyll: front matter により Liquid（relative_url）が有効化される -->
+<!-- Jekyll: front matter によりページとしてビルドされる。言語リンクは GitHub 表示でも効くよう絶対 URL -->
 <!-- div 内は Kramdown が Markdown 解釈しないため HTML でリンク -->
 <div class="web-only">
-  <p><a href="{{ '/README.en.html' | relative_url }}">English</a> | 日本語</p>
+  <p><a href="https://nonakayasuo.github.io/nonakayasuo/README.en.html">English</a> | 日本語</p>
 </div>
 
 # 職務経歴書
