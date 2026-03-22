@@ -1,6 +1,9 @@
-<!-- div 内は Kramdown が Markdown 解釈しないため HTML でリンクする（Pages 用） -->
+---
+---
+<!-- Jekyll: front matter により Liquid（relative_url）が有効化される -->
+<!-- div 内は Kramdown が Markdown 解釈しないため HTML でリンク -->
 <div class="web-only">
-  <p><a href="README.en.html">English</a> | 日本語</p>
+  <p><a href="{{ '/README.en.html' | relative_url }}">English</a> | 日本語</p>
 </div>
 
 # 職務経歴書

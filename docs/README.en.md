@@ -2,9 +2,9 @@
 layout: default
 title: Resume
 ---
-<!-- div 内は Markdown リンクが効かないため HTML で戻り先を指定 -->
+<!-- div 内は HTML でリンク -->
 <div class="web-only">
-  <p>English | <a href="{{ site.baseurl }}/">日本語</a></p>
+  <p>English | <a href="{{ '/' | relative_url }}">日本語</a></p>
 </div>
 
 # Resume
