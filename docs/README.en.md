@@ -107,569 +107,429 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
 
 #### AI SaaS development for a major manufacturing client
 
-**Employment type:** Full-time employee  
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mar 2025 –<br>present</td>
+      <td>
+        <b>Employment type:</b> Full-time employee<br><br>
+        <b>Team:</b> Engineering: 8 / Total: 12<br>
+        <b>Stakeholders:</b> Several client companies<br><br>
+        <b>Languages &amp; frameworks:</b><br>
+        ・Frontend: TypeScript + Next.js<br>
+        ・Backend: Python + FastAPI<br><br>
+        <b>Infrastructure:</b> AWS, PostgreSQL (pgvector)<br>
+        <b>Protocols:</b> REST<br><br>
+        <b>Tools:</b> GitHub, Notion, Cursor, MCP (PostgreSQL, etc.), Docker, LangChain, LangGraph, LangSmith, OpenAI API, Azure OpenAI API, Claude Code, SQLAlchemy<br><br>
+        <b>Summary:</b><br>
+        Led development of a RAG system over internal and design documents for an AI SaaS engagement targeting large manufacturers, as Tech Lead.<br><br>
+        <b>Role:</b><br>
+        ・Architecture: Owned end-to-end design of the RAG stack: FastAPI backend, pipeline from PDF ingestion through embedding and search, and PostgreSQL/pgvector for scalable document search.<br>
+        ・Frontend: Single-handedly implemented core Next.js UI—interactive chat with AI agents and search result visualization—and integration with backend APIs.<br>
+        ・AI agents: Built multi-step reasoning with LangGraph, prompt engineering for manufacturing terminology and context, and validation from ontology level through graph search—delivering hybrid search combining vector, graph, and agents.<br>
+        ・Domain modeling: Designed domain-specific agents and a multi-agent split of work; tuned chunking strategy to balance context retention and retrieval quality.<br><br>
+        <b>Outcomes:</b><br>
+        ・Delivered a production-oriented hybrid search system by owning ontology design through accuracy evaluation against real client workflows and terminology.<br>
+        ・Multi-agent design (domain routing, coordination, reflection) enabled complex operational queries that a single agent could not handle.<br>
+        ・Established a continuous prompt-improvement loop so the team could keep raising search quality.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Period:** Mar 2025 – present  
-
-**Team**
-
-- Engineering: 8  
-- Total: 12  
-
-**Stakeholders**
-
-- Several client companies  
-
-**Languages & frameworks**
-
-- Frontend: TypeScript + Next.js  
-- Backend: Python + FastAPI  
-
-**Infrastructure**
-
-- AWS  
-- PostgreSQL (pgvector)  
-
-**Protocols**
-
-- REST  
-
-**Tools**
-
-GitHub, Notion, Cursor, MCP (PostgreSQL, etc.), Docker, LangChain, LangGraph, LangSmith, OpenAI API, Azure OpenAI API, Claude Code, SQLAlchemy  
-
-**Summary**
-
-Led development of a RAG system over internal and design documents for an AI SaaS engagement targeting large manufacturers, as Tech Lead.
-
-**Role**
-
-- **Architecture:** Owned end-to-end design of the RAG stack: FastAPI backend, pipeline from PDF ingestion through embedding and search, and PostgreSQL/pgvector for scalable document search.  
-- **Frontend:** Single-handedly implemented core Next.js UI—interactive chat with AI agents and search result visualization—and integration with backend APIs.  
-- **AI agents:** Built multi-step reasoning with LangGraph, prompt engineering for manufacturing terminology and context, and validation from ontology level through graph search—delivering hybrid search combining vector, graph, and agents.  
-- **Domain modeling:** Designed domain-specific agents and a multi-agent split of work; tuned chunking strategy to balance context retention and retrieval quality.  
-
-**Outcomes**
-
-- Delivered a production-oriented hybrid search system by owning ontology design through accuracy evaluation against real client workflows and terminology.  
-- Multi-agent design (domain routing, coordination, reflection) enabled complex operational queries that a single agent could not handle.  
-- Established a continuous prompt-improvement loop so the team could keep raising search quality.  
+---
 
 #### Mobile app for a used-car dealership
 
-**Employment type:** Freelance  
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dec 2024 –<br>Feb 2025</td>
+      <td>
+        <b>Employment type:</b> Freelance (3 months)<br><br>
+        <b>Team:</b> Engineering: 2 / Total: 4<br>
+        <b>Stakeholders:</b> 1 client company<br><br>
+        <b>Languages &amp; frameworks:</b><br>
+        ・Mobile: Dart + Flutter<br>
+        ・Backend: Python + FastAPI<br>
+        ・Web: TypeScript + Next.js<br><br>
+        <b>Infrastructure (AWS):</b> API Gateway, EC2, S3, CloudFormation, CDK, Lambda, RDS, ECR, CloudWatch, SQS<br>
+        <b>RDB:</b> MySQL<br>
+        <b>Protocols:</b> REST<br><br>
+        <b>Tools:</b> GitHub, Backlog, Terraform, Sentry<br>
+        <b>Platform:</b> iOS<br><br>
+        <b>Summary:</b><br>
+        Full-stack delivery from Flutter iOS app through greenfield AWS infrastructure for API migration.<br><br>
+        <b>Role:</b><br>
+        ・iOS / Flutter: End-to-end design and implementation with direct user feedback, focusing on intuitive UX.<br>
+        ・Infrastructure: Built and operated AWS from scratch for migrated APIs; IaC with CloudFormation and CDK.<br>
+        ・Collaboration: Worked closely with PO, SM, and developers in Scrum.<br><br>
+        <b>Outcomes:</b><br>
+        ・Covered mobile development and new AWS infrastructure as part of the Scrum team.<br>
+        ・Enabled new API operations via greenfield AWS services.<br>
+        ・Helped keep the project moving through tight cross-functional collaboration.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Period:** Dec 2024 – Feb 2025 (3 months)  
-
-**Team**
-
-- Engineering: 2  
-- Total: 4  
-
-**Stakeholders**
-
-- 1 client company  
-
-**Languages & frameworks**
-
-- Mobile: Dart + Flutter  
-- Backend: Python + FastAPI  
-- Web: TypeScript + Next.js  
-
-**Infrastructure (AWS)**
-
-API Gateway, EC2, S3, CloudFormation, CDK, Lambda, RDS, ECR, CloudWatch, SQS  
-
-**RDB**
-
-MySQL  
-
-**Protocols**
-
-REST  
-
-**Tools**
-
-GitHub, Backlog, Terraform, Sentry  
-
-**Platform**
-
-iOS  
-
-**Summary**
-
-Full-stack delivery from Flutter iOS app through greenfield AWS infrastructure for API migration.
-
-**Role**
-
-- **iOS / Flutter:** End-to-end design and implementation with direct user feedback, focusing on intuitive UX.  
-- **Infrastructure:** Built and operated AWS from scratch for migrated APIs; IaC with CloudFormation and CDK.  
-- **Collaboration:** Worked closely with PO, SM, and developers in Scrum.  
-
-**Outcomes**
-
-- Covered mobile development and new AWS infrastructure as part of the Scrum team.  
-- Enabled new API operations via greenfield AWS services.  
-- Helped keep the project moving through tight cross-functional collaboration.  
+---
 
 #### Corporate 1-on-1 web application
 
-**Employment type:** Freelance  
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mar 1, 2024 –<br>Nov 30, 2024</td>
+      <td>
+        <b>Employment type:</b> Freelance<br><br>
+        <b>Team:</b> CTO ×1, Tech lead ×1, Engineers ×8 (10 total)<br>
+        <b>Stakeholders:</b> 1 client company<br><br>
+        <b>Languages &amp; frameworks:</b><br>
+        ・Frontend: TypeScript + AngularJS / HTML + SCSS + Tailwind CSS<br>
+        ・Backend: Python + FastAPI / Ruby on Rails<br><br>
+        <b>Infrastructure:</b> AWS<br>
+        <b>Protocols:</b> REST, GraphQL<br><br>
+        <b>Tools:</b> GitHub, Sentry, AWS CloudWatch, Notion<br><br>
+        <b>Summary:</b><br>
+        Built and maintained a web app supporting corporate 1-on-1 meetings—new features, UI/UX, and ops—as a full-stack engineer.<br><br>
+        <b>Role:</b><br>
+        ・Frontend: TypeScript + AngularJS for new features and improvements.<br>
+        ・UI/UX: Tailwind CSS and SCSS for a consistent design system.<br>
+        ・Backend: Primarily Python + FastAPI for new work; Rails for legacy maintenance.<br>
+        ・Operations: CloudWatch for logs, Sentry for errors—fast incident response.<br><br>
+        <b>Outcomes:</b><br>
+        ・Improved UX through new features and UI work.<br>
+        ・Reduced effort and increased consistency via the design system.<br>
+        ・Stable operations through combined monitoring.<br>
+        ・Strengthened full-stack ownership from frontend through backend and ops.<br>
+        ・Automation around logs and errors improved efficiency and response time.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Period:** Mar 1, 2024 – Nov 30, 2024  
-
-**Team**
-
-CTO ×1, Tech lead ×1, Engineers ×8 (10 total)  
-
-**Stakeholders**
-
-1 client company  
-
-**Languages & frameworks**
-
-- Frontend: TypeScript + AngularJS / HTML + SCSS + Tailwind CSS  
-- Backend: Python + FastAPI / Ruby on Rails  
-
-**Infrastructure**
-
-AWS  
-
-**Protocols**
-
-REST, GraphQL  
-
-**Tools**
-
-GitHub, Sentry, AWS CloudWatch, Notion  
-
-**Summary**
-
-Built and maintained a web app supporting corporate 1-on-1 meetings—new features, UI/UX, and ops—as a full-stack engineer.
-
-**Role**
-
-- **Frontend:** TypeScript + AngularJS for new features and improvements.  
-- **UI/UX:** Tailwind CSS and SCSS for a consistent design system.  
-- **Backend:** Primarily Python + FastAPI for new work; Rails for legacy maintenance.  
-- **Operations:** CloudWatch for logs, Sentry for errors—fast incident response.  
-
-**Outcomes**
-
-- Improved UX through new features and UI work.  
-- Reduced effort and increased consistency via the design system.  
-- Stable operations through combined monitoring.  
-- Strengthened full-stack ownership from frontend through backend and ops.  
-- Automation around logs and errors improved efficiency and response time.  
+---
 
 #### Sales-facing AI web app (side project)
 
-**Employment type:** Freelance  
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jan 2024 –<br>Aug 31, 2024</td>
+      <td>
+        <b>Employment type:</b> Freelance<br><br>
+        <b>Team:</b> PM ×1, Engineers ×2<br>
+        <b>Stakeholders:</b> 1 client company<br><br>
+        <b>Languages &amp; frameworks:</b><br>
+        ・Frontend: TypeScript + Next.js<br>
+        ・Backend: Python<br><br>
+        <b>Infrastructure:</b> Firebase, GCP<br>
+        <b>Protocols:</b> REST<br><br>
+        <b>Tools:</b> GitHub, Tailwind CSS, LangChain (temperature, agents, etc.), Notion<br><br>
+        <b>Summary:</b><br>
+        Application for sales users to generate prompts from product, manufacturer, and customer data—from PoC through production.<br><br>
+        <b>Role:</b><br>
+        ・Frontend: TypeScript + Next.js features.<br>
+        ・Backend: Firebase SDK + Python for data handling and prompt generation.<br>
+        ・Prompting: LangChain tuning (temperature, agents) for better outputs.<br>
+        ・Financial data: Extracted data from EDINET (XBRL) and computed metrics (e.g. revenue, operating profit) using accounting knowledge.<br>
+        ・Operations: Owned path from PoC to production.<br><br>
+        <b>Outcomes:</b><br>
+        ・Delivered an AI prompt app tailored to sales workflows.<br>
+        ・Improved response quality via LangChain tuning.<br>
+        ・Consistent UI with Tailwind.<br>
+        ・Better accuracy on financial extraction and KPI calculation using EDINET and accounting input.<br>
+        ・Shipped end-to-end in a small team, exceeding client expectations.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Period:** Jan 2024 – Aug 31, 2024  
-
-**Team**
-
-PM ×1, Engineers ×2  
-
-**Stakeholders**
-
-1 client company  
-
-**Languages & frameworks**
-
-- Frontend: TypeScript + Next.js  
-- Backend: Python  
-
-**Infrastructure**
-
-Firebase, GCP  
-
-**Protocols**
-
-REST  
-
-**Tools**
-
-GitHub, Tailwind CSS, LangChain (temperature, agents, etc.), Notion  
-
-**Summary**
-
-Application for sales users to generate prompts from product, manufacturer, and customer data—from PoC through production.
-
-**Role**
-
-- **Frontend:** TypeScript + Next.js features.  
-- **Backend:** Firebase SDK + Python for data handling and prompt generation.  
-- **Prompting:** LangChain tuning (temperature, agents) for better outputs.  
-- **Financial data:** Extracted data from EDINET (XBRL) and computed metrics (e.g. revenue, operating profit) using accounting knowledge.  
-- **Operations:** Owned path from PoC to production.  
-
-**Outcomes**
-
-- Delivered an AI prompt app tailored to sales workflows.  
-- Improved response quality via LangChain tuning.  
-- Consistent UI with Tailwind.  
-- Better accuracy on financial extraction and KPI calculation using EDINET and accounting input.  
-- Shipped end-to-end in a small team, exceeding client expectations.  
+---
 
 #### Manufacturing web application
 
-**Employment type:** Freelance  
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>May 2023 –<br>Feb 28, 2024</td>
+      <td>
+        <b>Employment type:</b> Freelance<br><br>
+        <b>Team:</b> Tech leads ×2, Engineers ×10<br>
+        <b>Stakeholders:</b> 1 client company<br><br>
+        <b>Languages &amp; frameworks:</b> TypeScript, Nuxt.js 3, Pinia, React.js<br><br>
+        <b>Infrastructure:</b> AWS<br>
+        <b>Protocols:</b> REST, GraphQL<br><br>
+        <b>Tools:</b> GitHub, Tailwind CSS, Hasura, Sentry, Datadog, Notion<br><br>
+        <b>Summary:</b><br>
+        AI-enabled web app for manufacturing: efficient frontend–backend integration, stability in production, and React rewrite of a legacy app.<br><br>
+        <b>Role:</b><br>
+        ・Frontend: TypeScript + Nuxt 3 + Pinia, UX-focused features.<br>
+        ・Rewrite: Migrated legacy UI to React for maintainability and extensibility.<br>
+        ・Styling: Tailwind for consistent, efficient UI.<br>
+        ・Data: Hasura + GraphQL for efficient reads/writes.<br>
+        ・Reliability: Sentry + Datadog from detection through handling.<br><br>
+        <b>Outcomes:</b><br>
+        ・Shipped on Nuxt 3 with a modern toolchain.<br>
+        ・Flexible, consistent UI with Tailwind.<br>
+        ・Faster, more flexible data access via Hasura + GraphQL.<br>
+        ・Reduced tech debt and improved maintainability with the React migration.<br>
+        ・Stronger stability and faster troubleshooting with observability.<br>
+        ・Broadened frontend and operations skill set.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Period:** May 2023 – Feb 28, 2024  
-
-**Team**
-
-Tech leads ×2, Engineers ×10  
-
-**Stakeholders**
-
-1 client company  
-
-**Languages & frameworks**
-
-TypeScript, Nuxt.js 3, Pinia, React.js  
-
-**Infrastructure**
-
-AWS  
-
-**Protocols**
-
-REST, GraphQL  
-
-**Tools**
-
-GitHub, Tailwind CSS, Hasura, Sentry, Datadog, Notion  
-
-**Summary**
-
-AI-enabled web app for manufacturing: efficient frontend–backend integration, stability in production, and React rewrite of a legacy app.
-
-**Role**
-
-- **Frontend:** TypeScript + Nuxt 3 + Pinia, UX-focused features.  
-- **Rewrite:** Migrated legacy UI to React for maintainability and extensibility.  
-- **Styling:** Tailwind for consistent, efficient UI.  
-- **Data:** Hasura + GraphQL for efficient reads/writes.  
-- **Reliability:** Sentry + Datadog from detection through handling.  
-
-**Outcomes**
-
-- Shipped on Nuxt 3 with a modern toolchain.  
-- Flexible, consistent UI with Tailwind.  
-- Faster, more flexible data access via Hasura + GraphQL.  
-- Reduced tech debt and improved maintainability with the React migration.  
-- Stronger stability and faster troubleshooting with observability.  
-- Broadened frontend and operations skill set.  
+---
 
 #### Traveler-focused B2C web application
 
-**Employment type:** Freelance  
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Oct 1, 2021 –<br>Dec 31, 2022</td>
+      <td>
+        <b>Employment type:</b> Freelance<br><br>
+        <b>Team:</b> PO ×1, Tech lead ×1, Engineers ×3<br>
+        <b>Stakeholders:</b> 1 client company<br><br>
+        <b>Languages &amp; frameworks:</b><br>
+        ・Frontend: TypeScript + Vue.js<br>
+        ・Backend: PHP + Laravel<br><br>
+        <b>Infrastructure (AWS):</b> CloudFront, CloudWatch, CodePipeline, EC2, S3, CodeBuild, RDS<br>
+        <b>Protocols:</b> REST, GraphQL<br><br>
+        <b>Tools:</b> GitHub, Pusher, SCSS, Notion<br><br>
+        <b>Summary:</b><br>
+        New chat features and enhancements for a B2C travel web app, plus real-time comms and CI/CD.<br><br>
+        <b>Role:</b><br>
+        ・Chat (new): TypeScript + Vue.js frontend and UI.<br>
+        ・Backend: Laravel with JWT-based auth.<br>
+        ・CI/CD: CodeBuild + CodePipeline for build, test, deploy.<br>
+        ・Realtime: Pusher across frontend and backend.<br>
+        ・Enhancements: Additional features on an existing education-oriented web product.<br><br>
+        <b>Outcomes:</b><br>
+        ・Designed and shipped chat with realtime UX improvements.<br>
+        ・CI/CD improved deploy speed and reliability.<br>
+        ・Stable realtime behavior after research, design, and implementation.<br>
+        ・Full-stack growth across frontend and backend.<br>
+        ・Increased value of the existing product through new capabilities.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Period:** Oct 1, 2021 – Dec 31, 2022  
-
-**Team**
-
-PO ×1, Tech lead ×1, Engineers ×3  
-
-**Stakeholders**
-
-1 client company  
-
-**Languages & frameworks**
-
-- Frontend: TypeScript + Vue.js  
-- Backend: PHP + Laravel  
-
-**Infrastructure (AWS)**
-
-CloudFront, CloudWatch, CodePipeline, EC2, S3, CodeBuild, RDS  
-
-**Protocols**
-
-REST, GraphQL  
-
-**Tools**
-
-GitHub, Pusher, SCSS, Notion  
-
-**Summary**
-
-New chat features and enhancements for a B2C travel web app, plus real-time comms and CI/CD.
-
-**Role**
-
-- **Chat (new):** TypeScript + Vue.js frontend and UI.  
-- **Backend:** Laravel with JWT-based auth.  
-- **CI/CD:** CodeBuild + CodePipeline for build, test, deploy.  
-- **Realtime:** Pusher across frontend and backend.  
-- **Enhancements:** Additional features on an existing education-oriented web product.  
-
-**Outcomes**
-
-- Designed and shipped chat with realtime UX improvements.  
-- CI/CD improved deploy speed and reliability.  
-- Stable realtime behavior after research, design, and implementation.  
-- Full-stack growth across frontend and backend.  
-- Increased value of the existing product through new capabilities.  
+---
 
 #### PoC development for new AI-powered applications
 
-**Employment type:** Full-time employee  
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aug 1, 2020 –<br>Sep 30, 2021</td>
+      <td>
+        <b>Employment type:</b> Full-time employee<br><br>
+        <b>Team:</b> PM ×1, Lead ×1, Engineers ×5<br>
+        <b>Stakeholders:</b> 1 client company<br><br>
+        <b>Languages &amp; frameworks:</b><br>
+        ・Frontend: TypeScript + Vue.js<br>
+        ・Backend: Python + Flask / FastAPI<br><br>
+        <b>Infrastructure:</b> MySQL, SQLite<br>
+        <b>Protocols:</b> REST<br><br>
+        <b>Tools:</b> GitLab, Docker, Pytest<br><br>
+        <b>Summary:</b><br>
+        Two PoC applications:<br>
+        ・Money-laundering audit app: TypeScript + Vue.js + Flask<br>
+        ・Speech recognition &amp; captioning app: TypeScript + Vue.js + FastAPI<br><br>
+        <b>Role:</b><br>
+        ・Screen and functional design in the design phase.<br>
+        ・Full-stack development with Vue.js and Flask/FastAPI.<br>
+        ・Backend APIs and logic; tests with Pytest.<br>
+        ・Audio/video speech recognition and text output through delivery.<br><br>
+        <b>Outcomes:</b><br>
+        ・Delivered two AI PoCs with client handoff.<br>
+        ・Improved backend quality and reliability with Pytest.<br>
+        ・Owned design through implementation, including architecture documentation.<br>
+        ・Efficient frontend–backend integration within a tight timeline.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Period:** Aug 1, 2020 – Sep 30, 2021  
-
-**Team**
-
-PM ×1, Lead ×1, Engineers ×5  
-
-**Stakeholders**
-
-1 client company  
-
-**Languages & frameworks**
-
-- Frontend: TypeScript + Vue.js  
-- Backend: Python + Flask / FastAPI  
-
-**Infrastructure**
-
-MySQL, SQLite  
-
-**Protocols**
-
-REST  
-
-**Tools**
-
-GitLab, Docker, Pytest  
-
-**Summary**
-
-Two PoC applications:
-
-- Money-laundering audit app: TypeScript + Vue.js + Flask  
-- Speech recognition & captioning app: TypeScript + Vue.js + FastAPI  
-
-**Role**
-
-- Screen and functional design in the design phase.  
-- Full-stack development with Vue.js and Flask/FastAPI.  
-- Backend APIs and logic; tests with Pytest.  
-- Audio/video speech recognition and text output through delivery.  
-
-**Outcomes**
-
-- Delivered two AI PoCs with client handoff.  
-- Improved backend quality and reliability with Pytest.  
-- Owned design through implementation, including architecture documentation.  
-- Efficient frontend–backend integration within a tight timeline.  
+---
 
 #### Mobile app UI development
 
-**Employment type:** Full-time employee  
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jan 1, 2021 –<br>Jul 31, 2021</td>
+      <td>
+        <b>Employment type:</b> Full-time employee<br><br>
+        <b>Team:</b> PO ×1, Scrum Masters ×4, Engineers ×12<br>
+        <b>Stakeholders:</b> 1 client company<br><br>
+        <b>Languages &amp; frameworks:</b> JavaScript, React.js, Gatsby, Jest, TestCafe<br><br>
+        <b>Infrastructure:</b> Firebase Realtime Database, GCP (GKE)<br>
+        <b>Protocols:</b> REST<br><br>
+        <b>Tools:</b> GitLab, Docker, Kubernetes, Jira, nginx<br><br>
+        <b>Summary:</b><br>
+        Design, build, and operate a mobile-oriented experience using React and GCP in a cloud-native style.<br><br>
+        <b>Role:</b><br>
+        ・Frontend with React.js + Gatsby.<br>
+        ・Design docs and feature design from requirements.<br>
+        ・CI/CD from dev through release.<br>
+        ・Jest unit tests and TestCafe E2E tests.<br><br>
+        <b>Outcomes:</b><br>
+        ・Shipped the app on React + GCP on an aggressive timeline.<br>
+        ・CI/CD reduced effort from development to release.<br>
+        ・Tests improved quality.<br>
+        ・Architecture diagrams and requirements docs streamlined design.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Period:** Jan 1, 2021 – Jul 31, 2021  
-
-**Team**
-
-PO ×1, Scrum Masters ×4, Engineers ×12  
-
-**Stakeholders**
-
-1 client company  
-
-**Languages & frameworks**
-
-JavaScript, React.js, Gatsby, Jest, TestCafe  
-
-**Infrastructure**
-
-Firebase Realtime Database, GCP (GKE)  
-
-**Protocols**
-
-REST  
-
-**Tools**
-
-GitLab, Docker, Kubernetes, Jira, nginx  
-
-**Summary**
-
-Design, build, and operate a mobile-oriented experience using React and GCP in a cloud-native style.
-
-**Role**
-
-- Frontend with React.js + Gatsby.  
-- Design docs and feature design from requirements.  
-- CI/CD from dev through release.  
-- Jest unit tests and TestCafe E2E tests.  
-
-**Outcomes**
-
-- Shipped the app on React + GCP on an aggressive timeline.  
-- CI/CD reduced effort from development to release.  
-- Tests improved quality.  
-- Architecture diagrams and requirements docs streamlined design.  
+---
 
 #### Data platform construction
 
-**Employment type:** Full-time employee  
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mar 1, 2019 –<br>Dec 31, 2020</td>
+      <td>
+        <b>Employment type:</b> Full-time employee<br><br>
+        <b>Team:</b> PO ×1, Scrum Master ×1, Tech lead ×1, Engineers ×6<br>
+        <b>Stakeholders:</b> 1 client company<br><br>
+        <b>Languages &amp; frameworks:</b> Python, Pytest, Boto3<br><br>
+        <b>Infrastructure (AWS):</b> EC2, S3, Lambda, RDS, DynamoDB, Batch, Glue, ECR, EMR, CloudWatch, Athena<br>
+        <b>Protocols:</b> REST<br><br>
+        <b>Tools:</b> GitHub, Jira, Presto, Docker<br><br>
+        <b>Summary:</b><br>
+        Built an analytics platform to process and aggregate large-scale game telemetry for analysis—ETL development and operations.<br><br>
+        <b>Role:</b><br>
+        ・Python applications for design, new development, operations, and maintenance.<br>
+        ・Unit tests with Pytest.<br>
+        ・Backend automation against AWS with Boto3.<br>
+        ・Used EC2, S3, Lambda, RDS, DynamoDB, Batch, Glue, and related services for the data platform.<br><br>
+        <b>Team context:</b><br>
+        ・Scrum with rapid feature delivery and fixes.<br>
+        ・Very large data volumes required cost-performance tuning and scalable design.<br>
+        ・Operations needed quick incident response and new requirements.<br><br>
+        <b>Outcomes:</b><br>
+        ・Data pipelines processed large volumes more efficiently than before.<br>
+        ・Tests improved quality and sped up fixes.<br>
+        ・AWS design choices improved cost-performance.<br>
+        ・Flexible delivery on new requirements built client trust.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Period:** Mar 1, 2019 – Dec 31, 2020  
-
-**Team**
-
-PO ×1, Scrum Master ×1, Tech lead ×1, Engineers ×6  
-
-**Stakeholders**
-
-1 client company  
-
-**Languages & frameworks**
-
-Python, Pytest, Boto3  
-
-**Infrastructure (AWS)**
-
-EC2, S3, Lambda, RDS, DynamoDB, Batch, Glue, ECR, EMR, CloudWatch, Athena  
-
-**Protocols**
-
-REST  
-
-**Tools**
-
-GitHub, Jira, Presto, Docker  
-
-**Summary**
-
-Built an analytics platform to process and aggregate large-scale game telemetry for analysis—ETL development and operations.
-
-**Role**
-
-- Python applications for design, new development, operations, and maintenance.  
-- Unit tests with Pytest.  
-- Backend automation against AWS with Boto3.  
-- Used EC2, S3, Lambda, RDS, DynamoDB, Batch, Glue, and related services for the data platform.  
-
-**Team context**
-
-- Scrum with rapid feature delivery and fixes.  
-- Very large data volumes required cost-performance tuning and scalable design.  
-- Operations needed quick incident response and new requirements.  
-
-**Outcomes**
-
-- Data pipelines processed large volumes more efficiently than before.  
-- Tests improved quality and sped up fixes.  
-- AWS design choices improved cost-performance.  
-- Flexible delivery on new requirements built client trust.  
+---
 
 #### B2C investment application
 
-**Employment type:** Full-time employee  
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sep 1, 2018 –<br>Feb 28, 2019</td>
+      <td>
+        <b>Employment type:</b> Full-time employee<br><br>
+        <b>Team:</b> PM ×1, Engineers ×4<br>
+        <b>Stakeholders:</b> 1 client company<br><br>
+        <b>Languages &amp; frameworks:</b> Python<br><br>
+        <b>Infrastructure (AWS):</b> Lambda, S3, RDS<br>
+        <b>Protocols:</b> REST<br><br>
+        <b>Tools:</b> GitLab, Jupyter Notebook, Redmine<br><br>
+        <b>Summary:</b><br>
+        Collected, analyzed, and visualized user investment data; generated individualized performance and market trend reports.<br><br>
+        <b>Role:</b><br>
+        ・End-to-end flow from ingestion through analysis, visualization, and delivery.<br>
+        ・Analysis in Python with numpy/pandas.<br>
+        ・Charts and reports with matplotlib/seaborn.<br>
+        ・REST APIs for processed results.<br>
+        ・Automated, customized user reports.<br><br>
+        <b>Outcomes:</b><br>
+        ・Reporting improved satisfaction by surfacing performance clearly.<br>
+        ・Python workflows shortened development time.<br>
+        ・APIs enabled timely data and higher product value.<br>
+        ・Visualization strengthened trust and insight for the client.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Period:** Sep 1, 2018 – Feb 28, 2019  
-
-**Team**
-
-PM ×1, Engineers ×4  
-
-**Stakeholders**
-
-1 client company  
-
-**Languages & frameworks**
-
-Python  
-
-**Infrastructure (AWS)**
-
-Lambda, S3, RDS  
-
-**Protocols**
-
-REST  
-
-**Tools**
-
-GitLab, Jupyter Notebook, Redmine  
-
-**Summary**
-
-Collected, analyzed, and visualized user investment data; generated individualized performance and market trend reports.
-
-**Role**
-
-- End-to-end flow from ingestion through analysis, visualization, and delivery.  
-- Analysis in Python with numpy/pandas.  
-- Charts and reports with matplotlib/seaborn.  
-- REST APIs for processed results.  
-- Automated, customized user reports.  
-
-**Outcomes**
-
-- Reporting improved satisfaction by surfacing performance clearly.  
-- Python workflows shortened development time.  
-- APIs enabled timely data and higher product value.  
-- Visualization strengthened trust and insight for the client.  
+---
 
 #### Credit card credit-management support
 
-**Employment type:** Full-time employee  
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jun 1, 2018 –<br>Jul 31, 2018</td>
+      <td>
+        <b>Employment type:</b> Full-time employee<br><br>
+        <b>Team:</b> PM ×1, Engineers ×3 (4 total)<br>
+        <b>Stakeholders:</b> 1 client company<br><br>
+        <b>Languages &amp; frameworks:</b> VBA<br><br>
+        <b>Infrastructure:</b> N/A<br>
+        <b>Protocols:</b> N/A<br><br>
+        <b>Tools:</b> Excel<br><br>
+        <b>Summary:</b><br>
+        Supported credit operations: requirements-phase assistance, efficiency tooling, documentation, and project support.<br><br>
+        <b>Team context:</b><br>
+        ・Documentation and coordination during requirements.<br>
+        ・VBA tools to speed PM work.<br>
+        ・Materials and progress tracking to improve information sharing.<br><br>
+        <b>Role:</b><br>
+        ・Requirements support: Organized and managed related documents.<br>
+        ・Efficiency tools: VBA tools for PM workflows and document automation.<br>
+        ・Reporting: Data aggregation, materials, and progress tracking.<br><br>
+        <b>Outcomes:</b><br>
+        ・Smoother requirements phase through structured documentation.<br>
+        ・Faster daily PM work via VBA tooling.<br>
+        ・Better visibility and sharing through materials and progress tracking.<br>
+        ・Foundational knowledge of credit operations and the value of documentation and tooling.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Period:** Jun 1, 2018 – Jul 31, 2018
-
-**Team**
-
-PM ×1, Engineers ×3 (4 total)
-
-**Stakeholders**
-
-1 client company
-
-**Languages & frameworks**
-
-VBA
-
-**Infrastructure**
-
-N/A
-
-**Protocols**
-
-N/A
-
-**Tools**
-
-Excel
-
-**Summary**
-
-Supported credit operations: requirements-phase assistance, efficiency tooling, documentation, and project support.
-
-**Team context**
-
-- Documentation and coordination during requirements.  
-- VBA tools to speed PM work.  
-- Materials and progress tracking to improve information sharing.  
-
-**Role**
-
-- **Requirements support:** Organized and managed related documents.  
-- **Efficiency tools:** VBA tools for PM workflows and document automation.  
-- **Reporting:** Data aggregation, materials, and progress tracking.  
-
-**Outcomes**
-
-- Smoother requirements phase through structured documentation.  
-- Faster daily PM work via VBA tooling.  
-- Better visibility and sharing through materials and progress tracking.  
-- Foundational knowledge of credit operations and the value of documentation and tooling.  
+---
 
 ## Hobbies
 
