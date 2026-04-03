@@ -105,7 +105,7 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
 
 ## Work experience (detailed)
 
-#### AI SaaS development for a major manufacturing client
+#### AI SaaS development for a major manufacturing client (Adixie Inc.)
 
 <table>
   <thead>
@@ -142,7 +142,7 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
 
 ---
 
-#### Mobile app for a used-car dealership
+#### Mobile app for a used-car dealership (Freelance)
 
 <table>
   <thead>
@@ -181,7 +181,7 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
 
 ---
 
-#### Corporate 1-on-1 web application
+#### Corporate 1-on-1 web application (Freelance)
 
 <table>
   <thead>
@@ -220,7 +220,7 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
 
 ---
 
-#### Sales-facing AI web app (side project)
+#### Sales-facing AI web app (Freelance)
 
 <table>
   <thead>
@@ -260,7 +260,7 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
 
 ---
 
-#### Manufacturing web application
+#### Manufacturing web application (Freelance)
 
 <table>
   <thead>
@@ -299,7 +299,7 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
 
 ---
 
-#### Traveler-focused B2C web application
+#### Traveler-focused B2C web application (Freelance)
 
 <table>
   <thead>
@@ -339,7 +339,7 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
 
 ---
 
-#### PoC development for new AI-powered applications
+#### PoC development for new AI-powered applications (IDH Inc.)
 
 <table>
   <thead>
@@ -379,7 +379,7 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
 
 ---
 
-#### Mobile app UI development
+#### Mobile app UI development (IDH Inc.)
 
 <table>
   <thead>
@@ -415,7 +415,7 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
 
 ---
 
-#### Data platform construction
+#### Data platform construction (IDH Inc.)
 
 <table>
   <thead>
@@ -455,7 +455,7 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
 
 ---
 
-#### B2C investment application
+#### B2C investment application (TecoTec Inc.)
 
 <table>
   <thead>
@@ -492,7 +492,7 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
 
 ---
 
-#### Credit card credit-management support
+#### Credit card credit-management support (FUJISOFT Inc.)
 
 <table>
   <thead>

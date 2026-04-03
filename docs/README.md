@@ -108,7 +108,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
 
 ---
 
-#### 大手製造業向けAI SaaS開発
+#### 大手製造業向けAI SaaS開発（アディクシィ株式会社）
 
 <table>
   <thead>
@@ -146,7 +146,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
 
 ---
 
-#### 中古車販売会社向けモバイルアプリ開発
+#### 中古車販売会社向けモバイルアプリ開発（フリーランス）
 
 <table>
   <thead>
@@ -185,7 +185,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
 
 ---
 
-#### 企業向け 1on1Web アプリ開発
+#### 企業向け 1on1Web アプリ開発（フリーランス）
 
 <table>
   <thead>
@@ -228,7 +228,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
 
 ---
 
-#### 営業向け AI を活用した Web アプリ開発(副業)
+#### 営業向け AI を活用した Web アプリ開発（フリーランス）
 
 <table>
   <thead>
@@ -268,7 +268,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
 
 ---
 
-#### 製造業向け Web アプリ開発
+#### 製造業向け Web アプリ開発（フリーランス）
 
 <table>
   <thead>
@@ -307,7 +307,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
 
 ---
 
-#### 旅人向け Web アプリ開発
+#### 旅人向け Web アプリ開発（フリーランス）
 
 <table>
   <thead>
@@ -347,7 +347,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
 
 ---
 
-#### AI 技術を使った新アプリの PoC 開発業務
+#### AI 技術を使った新アプリの PoC 開発業務（株式会社アイ・ディ・エイチ）
 
 <table>
   <thead>
@@ -387,7 +387,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
 
 ---
 
-#### モバイルアプリ画面開発業務
+#### モバイルアプリ画面開発業務（株式会社アイ・ディ・エイチ）
 
 <table>
   <thead>
@@ -423,7 +423,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
 
 ---
 
-#### データ基盤構築業務
+#### データ基盤構築業務（株式会社アイ・ディ・エイチ）
 
 <table>
   <thead>
@@ -467,7 +467,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
 
 ---
 
-#### BtoC 投資アプリ開発
+#### BtoC 投資アプリ開発（株式会社テコテック）
 
 <table>
   <thead>
@@ -504,7 +504,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
 
 ---
 
-#### クレジットカード与信管理支援業務
+#### クレジットカード与信管理支援業務（富士ソフト株式会社）
 
 <table>
   <thead>
