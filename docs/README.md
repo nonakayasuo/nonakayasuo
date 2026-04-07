@@ -119,7 +119,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
       <td>2025/09 ~<br>現在</td>
       <td>
         <b>【雇用形態】</b>正社員<br><br>
-        <b>【チーム編成】</b>開発：3名 / 全体：10名<br>
+        <b>【チーム編成】</b>開発：5名 / 全体：10名<br>
         <b>【ステークホルダー】</b>社内各部門（経営層、情シス、人事、経理等）<br><br>
         <b>【言語・フレームワーク】</b><br>
         ・フロントエンド：TypeScript + Next.js<br>

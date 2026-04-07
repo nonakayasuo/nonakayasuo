@@ -118,7 +118,7 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
       <td>Sep 2025 –<br>present</td>
       <td>
         <b>Employment type:</b> Full-time employee<br><br>
-        <b>Team:</b> Engineering: 3 / Total: 10<br>
+        <b>Team:</b> Engineering: 5 / Total: 10<br>
         <b>Stakeholders:</b> Internal departments (management, IT, HR, accounting, etc.)<br><br>
         <b>Languages &amp; frameworks:</b><br>
         ・Frontend: TypeScript + Next.js<br>
