@@ -108,6 +108,53 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
 
 ---
 
+#### 社内DX推進・統合基盤構築（アディクシィ株式会社）
+
+<table>
+  <thead>
+    <tr><th>期間</th><th>業務内容</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025/09 ~<br>現在</td>
+      <td>
+        <b>【雇用形態】</b>正社員<br><br>
+        <b>【チーム編成】</b>開発：3名 / 全体：10名<br>
+        <b>【ステークホルダー】</b>社内各部門（経営層、情シス、人事、経理等）<br><br>
+        <b>【言語・フレームワーク】</b><br>
+        ・フロントエンド：TypeScript + Next.js<br>
+        ・バックエンド：TypeScript + Node.js（GraphQL / REST）<br>
+        ・ORM：Prisma<br><br>
+        <b>【インフラ】</b><br>
+        ・AWS（ECS Fargate、Aurora Serverless v2、Lambda、API Gateway、ECR、CloudWatch、S3、Amplify）<br>
+        ・IaC：Terraform<br>
+        <b>【RDB】</b>PostgreSQL（Aurora Serverless v2）<br>
+        <b>【通信プロトコル】</b>GraphQL、REST<br><br>
+        <b>【ツール】</b><br>
+        GitHub、GitHub Actions、Docker、Cursor、Claude Code、MCP、Prisma、Docusaurus<br><br>
+        <b>【主な業務】</b><br>
+        社内業務システムの統合基盤の企画・設計・構築を PM として推進。インフラ・共通モジュールのほか、複数の業務 API をモノレポで統合し、一元的に管理・展開できる基盤を構築。<br><br>
+        <b>【チームでの役割】</b><br>
+        ・プロジェクト管理：PdM / PL として要件定義、タスク管理、開発メンバーへの作業指示、社内各部門のステークホルダーとの調整を担当<br>
+        ・アーキテクチャ設計：モノレポ構成を設計し、複数の業務 API を統合管理できるリポジトリアーキテクチャを策定<br>
+        ・インフラ設計・構築：Terraform による AWS インフラの IaC 化を推進。Aurora Serverless v2 のゼロスケール構成によるコスト最適化、ECS Fargate によるコンテナデプロイ基盤を構築<br>
+        ・CI/CD パイプライン構築：GitHub Actions による自動デプロイ（dev / prod 環境分離）、DB マイグレーションの自動化を実現<br>
+        ・API 設計・開発：GraphQL / REST のハイブリッド API を設計。マスタデータ管理、勤怠照合、請求・給与連携などの業務 API を構築<br>
+        ・外部 SaaS 連携設計：外部 SaaS とのデータ同期エンジン・アダプター設計<br>
+        ・AI エージェント連携：MCP（Model Context Protocol）サーバーおよび Agent Skills の設計・実装。業務横断の AI エージェント基盤を構築<br>
+        ・ドキュメント整備：Docusaurus による統合仕様書・API 仕様書のドキュメントサイトを構築<br><br>
+        <b>【成果】</b><br>
+        ・複数の業務 API を束ねる統合基盤をゼロから設計・構築し、社内 DX を推進<br>
+        ・Terraform による IaC 化と Aurora Serverless v2 のゼロスケール構成により、インフラコストの最適化を実現<br>
+        ・GitHub Actions による CI/CD パイプラインを構築し、dev / prod 環境の自動デプロイ体制を確立<br>
+        ・MCP / Agent Skills を活用した AI エージェント基盤を構築し、業務横断での AI 活用を可能にした
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 #### 大手製造業向けAI SaaS開発（アディクシィ株式会社）
 
 <table>

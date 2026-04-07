@@ -105,6 +105,54 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
 
 ## Work experience (detailed)
 
+---
+
+#### Internal DX promotion &amp; integrated platform development (Adixie Inc.)
+
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sep 2025 –<br>present</td>
+      <td>
+        <b>Employment type:</b> Full-time employee<br><br>
+        <b>Team:</b> Engineering: 3 / Total: 10<br>
+        <b>Stakeholders:</b> Internal departments (management, IT, HR, accounting, etc.)<br><br>
+        <b>Languages &amp; frameworks:</b><br>
+        ・Frontend: TypeScript + Next.js<br>
+        ・Backend: TypeScript + Node.js (GraphQL / REST)<br>
+        ・ORM: Prisma<br><br>
+        <b>Infrastructure:</b><br>
+        ・AWS (ECS Fargate, Aurora Serverless v2, Lambda, API Gateway, ECR, CloudWatch, S3, Amplify)<br>
+        ・IaC: Terraform<br>
+        <b>RDB:</b> PostgreSQL (Aurora Serverless v2)<br>
+        <b>Protocols:</b> GraphQL, REST<br><br>
+        <b>Tools:</b> GitHub, GitHub Actions, Docker, Cursor, Claude Code, MCP, Prisma, Docusaurus<br><br>
+        <b>Summary:</b><br>
+        Led planning, design, and construction of an integrated internal platform "ADiXi Sandbox" as PdM / PL. Built a monorepo-based platform that unifies infrastructure, shared modules, and multiple internal-facing business APIs under one repository for centralized management and deployment.<br><br>
+        <b>Role:</b><br>
+        ・Project management: Requirements definition, task management, team coordination, and stakeholder alignment as PdM / PL<br>
+        ・Architecture design: Designed monorepo + Git Submodules multi-repository structure connecting satellite and hub repositories<br>
+        ・Infrastructure: Drove IaC with Terraform on AWS. Optimized costs with Aurora Serverless v2 zero-scale configuration and built container deployment on ECS Fargate<br>
+        ・CI/CD pipeline: Automated deployments via GitHub Actions with dev / prod environment separation and DB migration automation<br>
+        ・API design: Designed hybrid GraphQL / REST API (Entity API) for master data, attendance reconciliation, billing, and payroll<br>
+        ・SaaS integration: Designed data sync engines and adapters for external SaaS (PORTERS, Bakuraku, SmartHR)<br>
+        ・AI agent platform: Designed and implemented MCP (Model Context Protocol) servers and Agent Skills for cross-functional AI agent capabilities<br>
+        ・Documentation: Built unified specification and API documentation site with Docusaurus<br><br>
+        <b>Outcomes:</b><br>
+        ・Designed and built an integrated platform from scratch to consolidate multiple business APIs, driving internal DX<br>
+        ・Optimized infrastructure costs through Terraform IaC and Aurora Serverless v2 zero-scale configuration<br>
+        ・Established automated dev / prod deployment pipeline with GitHub Actions CI/CD<br>
+        ・Built an AI agent platform using MCP / Agent Skills, enabling cross-functional AI utilization
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 #### AI SaaS development for a major manufacturing client (Adixie Inc.)
 
 <table>
