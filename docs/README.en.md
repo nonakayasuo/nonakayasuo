@@ -122,22 +122,22 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
         <b>Stakeholders:</b> Internal departments (management, IT, HR, accounting, etc.)<br><br>
         <b>Languages &amp; frameworks:</b><br>
         ・Frontend: TypeScript + Next.js<br>
-        ・Backend: TypeScript + Node.js (GraphQL / REST)<br>
+        ・Backend: TypeScript + Node.js (REST)<br>
         ・ORM: Prisma<br><br>
         <b>Infrastructure:</b><br>
         ・AWS (ECS Fargate, Aurora Serverless v2, Lambda, API Gateway, ECR, CloudWatch, S3, Amplify)<br>
         ・IaC: Terraform<br>
         <b>RDB:</b> PostgreSQL (Aurora Serverless v2)<br>
-        <b>Protocols:</b> GraphQL, REST<br><br>
+        <b>Protocols:</b> REST<br><br>
         <b>Tools:</b> GitHub, GitHub Actions, Docker, Cursor, Claude Code, MCP, Prisma, Docusaurus<br><br>
         <b>Summary:</b><br>
-        Led planning, design, and construction of an integrated internal platform "ADiXi Sandbox" as PdM / PL. Built a monorepo-based platform that unifies infrastructure, shared modules, and multiple internal-facing business APIs under one repository for centralized management and deployment.<br><br>
+        Led planning, design, and construction of an integrated internal platform "ADiXi Sandbox" as PM. Built a monorepo-based platform that unifies infrastructure, shared modules, and multiple internal-facing business APIs under one repository for centralized management and deployment.<br><br>
         <b>Role:</b><br>
-        ・Project management: Requirements definition, task management, team coordination, and stakeholder alignment as PdM / PL<br>
+        ・Project management: Requirements definition, task management, team coordination, and stakeholder alignment as PM<br>
         ・Architecture design: Designed monorepo + Git Submodules multi-repository structure connecting satellite and hub repositories<br>
         ・Infrastructure: Drove IaC with Terraform on AWS. Optimized costs with Aurora Serverless v2 zero-scale configuration and built container deployment on ECS Fargate<br>
         ・CI/CD pipeline: Automated deployments via GitHub Actions with dev / prod environment separation and DB migration automation<br>
-        ・API design: Designed hybrid GraphQL / REST API (Entity API) for master data, attendance reconciliation, billing, and payroll<br>
+        ・API design: Designed REST APIs (Entity API) for master data, attendance reconciliation, billing, and payroll<br>
         ・SaaS integration: Designed data sync engines and adapters for external SaaS (PORTERS, Bakuraku, SmartHR)<br>
         ・AI agent platform: Designed and implemented MCP (Model Context Protocol) servers and Agent Skills for cross-functional AI agent capabilities<br>
         ・Documentation: Built unified specification and API documentation site with Docusaurus<br><br>
