@@ -24,7 +24,8 @@ description: フルスタックエンジニア（東京）。Python / TypeScript
 
 ## 職歴要約
 
-Python・TypeScript を軸に 7 年以上の開発経験を持つフルスタックエンジニア。フロントエンド（Next.js・Vue.js・React）、バックエンド（FastAPI・Flask）、AWS を中心としたクラウドインフラ設計・構築まで一貫して担当。
+Python・TypeScript を軸に 7 年以上の開発経験を持つフルスタックエンジニア。
+フロントエンド（Next.js・Vue.js・React）、バックエンド（FastAPI・Flask）、AWS を中心としたクラウドインフラ設計・構築まで一貫して担当。
 
 直近では大手製造業向け AI SaaS の開発において Tech Lead を務め、LangChain / LangGraph / MCP を活用した RAG システムの設計・開発を主導。フリーランスエンジニアとしても複数のプロジェクトに従事し、モバイルアプリ（Flutter / iOS）・Web アプリ・データ基盤構築など幅広い開発を経験。
 
@@ -123,23 +124,23 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
         <b>【ステークホルダー】</b>社内各部門（経営層、情シス、人事、経理等）<br><br>
         <b>【言語・フレームワーク】</b><br>
         ・フロントエンド：TypeScript + Next.js<br>
-        ・バックエンド：TypeScript + Node.js（GraphQL / REST）<br>
+        ・バックエンド：TypeScript + Node.js（REST）<br>
         ・ORM：Prisma<br><br>
         <b>【インフラ】</b><br>
         ・AWS（ECS Fargate、Aurora Serverless v2、Lambda、API Gateway、ECR、CloudWatch、S3、Amplify）<br>
         ・IaC：Terraform<br>
         <b>【RDB】</b>PostgreSQL（Aurora Serverless v2）<br>
-        <b>【通信プロトコル】</b>GraphQL、REST<br><br>
+        <b>【通信プロトコル】</b>REST<br><br>
         <b>【ツール】</b><br>
         GitHub、GitHub Actions、Docker、Cursor、Claude Code、MCP、Prisma、Docusaurus<br><br>
         <b>【主な業務】</b><br>
         社内業務システムの統合基盤の企画・設計・構築を PM として推進。インフラ・共通モジュールのほか、複数の業務 API をモノレポで統合し、一元的に管理・展開できる基盤を構築。<br><br>
         <b>【チームでの役割】</b><br>
-        ・プロジェクト管理：PdM / PL として要件定義、タスク管理、開発メンバーへの作業指示、社内各部門のステークホルダーとの調整を担当<br>
+        ・プロジェクト管理：PM として要件定義、タスク管理、開発メンバーへの作業指示、社内各部門のステークホルダーとの調整を担当<br>
         ・アーキテクチャ設計：モノレポ構成を設計し、複数の業務 API を統合管理できるリポジトリアーキテクチャを策定<br>
         ・インフラ設計・構築：Terraform による AWS インフラの IaC 化を推進。Aurora Serverless v2 のゼロスケール構成によるコスト最適化、ECS Fargate によるコンテナデプロイ基盤を構築<br>
         ・CI/CD パイプライン構築：GitHub Actions による自動デプロイ（dev / prod 環境分離）、DB マイグレーションの自動化を実現<br>
-        ・API 設計・開発：GraphQL / REST のハイブリッド API を設計。マスタデータ管理、勤怠照合、請求・給与連携などの業務 API を構築<br>
+        ・API 設計・開発：REST のハイブリッド API を設計。マスタデータ管理、勤怠照合、請求・給与連携などの業務 API を構築<br>
         ・外部 SaaS 連携設計：外部 SaaS とのデータ同期エンジン・アダプター設計<br>
         ・AI エージェント連携：MCP（Model Context Protocol）サーバーおよび Agent Skills の設計・実装。業務横断の AI エージェント基盤を構築<br>
         ・ドキュメント整備：Docusaurus による統合仕様書・API 仕様書のドキュメントサイトを構築<br><br>
@@ -253,7 +254,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
         ・フロントエンド：TypeScript + AngularJS / HTML + SCSS + TailwindCSS<br>
         ・バックエンド：Python + FastAPI / Ruby on Rails<br><br>
         <b>【インフラ】</b>AWS<br>
-        <b>【通信プロトコル】</b>REST、GraphQL<br><br>
+        <b>【通信プロトコル】</b>REST<br><br>
         <b>【ツール】</b>GitHub、Sentry、AWS CloudWatch、Notion<br><br>
         <b>【主な業務】</b><br>
         企業向けに 1on1 ミーティングを支援する Web アプリケーションを開発。新規機能の実装、UI/UX 改善、運用保守を担当し、バックエンドとフロントエンドの両方をフルスタックエンジニアとして対応。<br><br>
@@ -330,7 +331,7 @@ Datadog、Docker、SQLAlchemy、Sentry、RSpec、Terraform
         <b>【ステークホルダー】</b>クライアント x 1社<br><br>
         <b>【言語・フレームワーク】</b>TypeScript、Nuxt.js (3系)、pinia、React.js<br><br>
         <b>【インフラ】</b>AWS<br>
-        <b>【通信プロトコル】</b>REST、GraphQL<br><br>
+        <b>【通信プロトコル】</b>REST<br><br>
         <b>【ツール】</b>GitHub、Tailwind CSS、Hasura、Sentry、Datadog、Notion<br><br>
         <b>【主な業務】</b><br>
         製造業向けに AI 技術を活用した Web アプリケーションの開発。フロントエンドとバックエンドのデータ連携を効率化し、運用中の安定性向上を実現。また、既存アプリケーションを React.js を用いてリプレイスし、モダンな技術スタックへの移行を担当。<br><br>

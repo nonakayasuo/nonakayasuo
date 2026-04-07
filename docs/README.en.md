@@ -25,9 +25,11 @@ description: Full-stack engineer, Tokyo — English resume.
 
 ## Professional summary
 
-I am a full-stack engineer with over seven years of experience, centered on Python and TypeScript. I work across the stack from frontend (Next.js, Vue.js, React) and backend (FastAPI, Flask) through cloud infrastructure design and operations, primarily on AWS.
+I am a full-stack engineer with over seven years of experience, centered on Python and TypeScript.
 
-Most recently, as Tech Lead on an AI SaaS engagement for a large manufacturer, I led design and development of a RAG system using LangChain, LangGraph, and MCP. As a freelancer I have also contributed to mobile apps (Flutter / iOS), web applications, and data platform builds.
+I work across the stack from frontend (Next.js, Vue.js, React) and backend (FastAPI, Flask) through cloud infrastructure design and operations, primarily on AWS.
+
+Most recently, as Tech Lead on an AI SaaS engagement for a large manufacturer, I led design and development of a RAG system using LangChain, LangGraph, and MCP. As a freelancer I have also contributed to multiple projects, including mobile apps (Flutter / iOS), web applications, and data platform builds.
 
 I focus on applying AI, shaping architecture, and supporting engineering teams—taking work from PoC through production operations.
 
@@ -93,11 +95,11 @@ Cloud Build, Cloud Pub/Sub, Cloud Run, GKE
 
 ### SaaS/PaaS
 
-CircleCI, Firebase, Firestore, GitHub, GitHub Actions
+CircleCI, Firebase, Firestore, GitHub, GitHub Action
 
 ### AI
 
-Cursor, Claude Code, LangChain, LangGraph, LangSmith, MCP, Agent Skills, Azure OpenAI API, OpenAI API
+Cursor, Claude Code, LangChain, LangGraph, LangSmith, MCP, Agent Skill, Azure OpenAI API, OpenAI API
 
 ### Other tools
 
@@ -122,23 +124,23 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
         <b>Stakeholders:</b> Internal departments (management, IT, HR, accounting, etc.)<br><br>
         <b>Languages &amp; frameworks:</b><br>
         ・Frontend: TypeScript + Next.js<br>
-        ・Backend: TypeScript + Node.js (GraphQL / REST)<br>
+        ・Backend: TypeScript + Node.js (REST)<br>
         ・ORM: Prisma<br><br>
         <b>Infrastructure:</b><br>
         ・AWS (ECS Fargate, Aurora Serverless v2, Lambda, API Gateway, ECR, CloudWatch, S3, Amplify)<br>
         ・IaC: Terraform<br>
         <b>RDB:</b> PostgreSQL (Aurora Serverless v2)<br>
-        <b>Protocols:</b> GraphQL, REST<br><br>
+        <b>Protocols:</b> REST<br><br>
         <b>Tools:</b> GitHub, GitHub Actions, Docker, Cursor, Claude Code, MCP, Prisma, Docusaurus<br><br>
         <b>Summary:</b><br>
-        Led planning, design, and construction of an integrated internal platform "ADiXi Sandbox" as PdM / PL. Built a monorepo-based platform that unifies infrastructure, shared modules, and multiple internal-facing business APIs under one repository for centralized management and deployment.<br><br>
+        Led planning, design, and construction of an integrated internal business platform as PM. Built a foundation that integrates infrastructure, shared modules, and multiple business APIs in a monorepo for centralized management and deployment.<br><br>
         <b>Role:</b><br>
-        ・Project management: Requirements definition, task management, team coordination, and stakeholder alignment as PdM / PL<br>
-        ・Architecture design: Designed monorepo + Git Submodules multi-repository structure connecting satellite and hub repositories<br>
+        ・Project management: As PM, led requirements definition, task management, work assignments for developers, and coordination with stakeholders across internal departments<br>
+        ・Architecture design: Designed a monorepo structure and repository architecture to integrate and centrally manage multiple business APIs<br>
         ・Infrastructure: Drove IaC with Terraform on AWS. Optimized costs with Aurora Serverless v2 zero-scale configuration and built container deployment on ECS Fargate<br>
         ・CI/CD pipeline: Automated deployments via GitHub Actions with dev / prod environment separation and DB migration automation<br>
-        ・API design: Designed hybrid GraphQL / REST API (Entity API) for master data, attendance reconciliation, billing, and payroll<br>
-        ・SaaS integration: Designed data sync engines and adapters for external SaaS (PORTERS, Bakuraku, SmartHR)<br>
+        ・API design: Designed REST-oriented APIs for master data, attendance reconciliation, billing, and payroll integrations<br>
+        ・SaaS integration: Designed data sync engines and adapters for external SaaS<br>
         ・AI agent platform: Designed and implemented MCP (Model Context Protocol) servers and Agent Skills for cross-functional AI agent capabilities<br>
         ・Documentation: Built unified specification and API documentation site with Docusaurus<br><br>
         <b>Outcomes:</b><br>
@@ -559,10 +561,6 @@ Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
         <b>Tools:</b> Excel<br><br>
         <b>Summary:</b><br>
         Supported credit operations: requirements-phase assistance, efficiency tooling, documentation, and project support.<br><br>
-        <b>Team context:</b><br>
-        ・Documentation and coordination during requirements.<br>
-        ・VBA tools to speed PM work.<br>
-        ・Materials and progress tracking to improve information sharing.<br><br>
         <b>Role:</b><br>
         ・Requirements support: Organized and managed related documents.<br>
         ・Efficiency tools: VBA tools for PM workflows and document automation.<br>
