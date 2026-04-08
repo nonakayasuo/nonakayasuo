@@ -1,10 +1,11 @@
 ---
-
-## title: 野中康生の職務経歴書
-
+layout: default
+title: 野中康生の職務経歴書
 description: フルスタックエンジニア（東京）。Python / TypeScript、クラウド・AI を中心とした職務経歴書。
-
-[English](https://nonakayasuo.github.io/nonakayasuo/README.en.html) | 日本語
+---
+<div class="web-only">
+  <p><a href="https://nonakayasuo.github.io/nonakayasuo/README.en.html">English</a> | 日本語</p>
+</div>
 
 # 職務経歴書
 
