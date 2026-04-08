@@ -59,53 +59,63 @@ I plan to apply my experience in application development and AI adoption, togeth
 
 ## Skills
 
-### Development methodologies
-
-Agile (Scrum), prototyping, MVC
-
-### Languages
-
-- Python: 6 years  
-- TypeScript: 5.5 years  
-- Dart: a few months  
-- PHP: a few months  
-- Ruby: a few months  
-
-### Frameworks and libraries
-
-FastAPI, Flask, React.JS, Next.js, Vue.JS, AngularJS, Laravel, Ruby on Rails, Flutter
-
-### Communication protocols
-
-GraphQL, gRPC, REST
-
-### RDB
-
-MySQL, PostgreSQL (pgvector)
-
-### Cloud
-
-#### AWS: 5 years
-
-API Gateway, Bedrock, CDK, CloudFormation, CloudFront, CodeBuild, CodePipeline, EC2, ECS, S3, Lambda, RDS, DynamoDB, Batch, Glue, ECR, EMR, CloudWatch, Athena, SES, SQS
-
-#### Google Cloud: 2 years
-
-Cloud Build, Cloud Pub/Sub, Cloud Run, GKE
-
-### SaaS/PaaS
-
-CircleCI, Firebase, Firestore, GitHub, GitHub Action
-
-### AI
-
-Cursor, Claude Code, LangChain, LangGraph, LangSmith, MCP, Agent Skill, Azure OpenAI API, OpenAI API
-
-### Other tools
-
-Datadog, Docker, SQLAlchemy, Sentry, RSpec, Terraform
+| Category | Technologies & Tools |
+| --- | --- |
+| **Languages** | Python (6 yrs), TypeScript (5.5 yrs), Dart, PHP, Ruby |
+| **Frameworks** | FastAPI, Flask, React.js, Next.js, Vue.js, AngularJS, Laravel, Ruby on Rails, Flutter |
+| **AI / LLM** | LangChain, LangGraph, LangSmith, MCP, Agent Skill, OpenAI API, Azure OpenAI API |
+| **AI Dev Tools** | Cursor, Claude Code |
+| **AWS** (5 yrs) | API Gateway, Bedrock, CDK, CloudFormation, CloudFront, CodeBuild, CodePipeline, EC2, ECS, S3, Lambda, RDS, DynamoDB, Batch, Glue, ECR, EMR, CloudWatch, Athena, SES, SQS |
+| **Google Cloud** (2 yrs) | Cloud Build, Cloud Pub/Sub, Cloud Run, GKE |
+| **RDB** | MySQL, PostgreSQL (pgvector) |
+| **SaaS / PaaS** | CircleCI, Firebase, Firestore, GitHub, GitHub Action |
+| **Infra / DevOps** | Docker, Terraform, Datadog, Sentry |
+| **Protocols** | GraphQL, gRPC, REST |
+| **ORM / Libraries** | SQLAlchemy, Prisma, RSpec |
+| **Methodologies** | Agile (Scrum), Prototyping, MVC |
 
 ## Work experience (detailed)
+
+---
+
+#### DX acceleration support for a major homebuilder (Adixie Inc.)
+
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jan 2026 –<br>present</td>
+      <td>
+        <b>Employment type:</b> Full-time employee<br><br>
+        <b>Team:</b> Engineering: 4 / Total: 6 (partner side)<br>
+        <b>Stakeholders:</b> 1 client company (major homebuilder)<br><br>
+        <b>Languages &amp; frameworks:</b><br>
+        ・Python + FastAPI / Streamlit<br>
+        ・TypeScript + Next.js<br><br>
+        <b>Infrastructure:</b><br>
+        ・AWS (ECS Fargate, Lambda, S3, CloudWatch)<br>
+        ・IaC: Terraform<br>
+        <b>Protocols:</b> REST<br><br>
+        <b>Tools:</b> GitHub, Cursor, Claude Code, Docker, Notion<br><br>
+        <b>Summary:</b><br>
+        As PM, provided end-to-end DX acceleration support for a major homebuilder's DX division—covering 12+ DX initiatives from planning and MVP development through quantitative impact evaluation and executive decision support.<br><br>
+        <b>Role:</b><br>
+        ・Project management: Managed overall progress of initiatives, coordinated with client-side leads and executives, and ran weekly reviews and monthly portfolio check-ins<br>
+        ・MVP development: Led agile MVP builds (dashboards, AI-powered checkers, web apps) with rapid feedback cycles via Teams<br>
+        ・Impact measurement: Designed a KPI-based Before/After evaluation framework using leading indicators (conversion rate, response time, error rate, etc.)<br>
+        ・Operations: Built a sustainable operating model with concurrent initiative caps, monthly portfolio reviews, weekly focus reviews, and bi-weekly consultation slots<br>
+        ・Templates: Created and provided project plan templates, approval checklists, and a management ledger<br><br>
+        <b>Outcomes:</b><br>
+        ・Established an end-to-end support structure for 12+ DX initiatives, from planning through impact evaluation<br>
+        ・Standardized the flow from planning → alignment → MVP → quantitative validation → executive decision, turning DX from "built and done" into "measurable and actionable"<br>
+        ・Prioritized high-value initiatives with projected annual impact ranging from tens of millions to billions of yen<br>
+        ・Minimized rework through agile MVP development enabling rapid hypothesis testing and pivots
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
