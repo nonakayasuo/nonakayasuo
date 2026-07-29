@@ -63,7 +63,7 @@ On a personal level, I’m drawn to the broader question of how information spre
 
 | Category | Technologies & Tools |
 | --- | --- |
-| **Languages** | Python (6 yrs), TypeScript (5.5 yrs), Dart, PHP, Ruby |
+| **Languages** | Python (6 yrs), TypeScript (6.5 yrs), Dart, PHP, Ruby |
 | **Frameworks** | FastAPI, Flask, React.js, Next.js, Vue.js, AngularJS, Laravel, Ruby on Rails, Flutter |
 | **AI / LLM** | LangChain, LangGraph, LangSmith, MCP, Agent Skill, OpenAI API, Azure OpenAI API |
 | **AI Dev Tools** | Cursor, Claude Code |

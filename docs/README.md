@@ -61,7 +61,7 @@ AI 技術の活用、アーキテクチャ設計、チームの技術支援に�
 
 | カテゴリ              | 技術・ツール                                                                                                                                                             |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **言語**              | Python（6 年）、TypeScript（5 年半）、Dart、PHP、Ruby                                                                                                                    |
+| **言語**              | Python（6 年）、TypeScript（6 年半）、Dart、PHP、Ruby                                                                                                                    |
 | **フレームワーク**    | FastAPI、Flask、React.js、Next.js、Vue.js、AngularJS、Laravel、Ruby on Rails、Flutter                                                                                    |
 | **AI / LLM**          | LangChain、LangGraph、LangSmith、MCP、Agent Skill、OpenAI API、Azure OpenAI API                                                                                          |
 | **AI 開発ツール**     | Cursor、Claude Code                                                                                                                                                      |
