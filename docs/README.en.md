@@ -55,7 +55,7 @@ I also find real meaning in supporting the public-interest mission of a news org
 
 Over the mid-to-long term, I want to apply the business perspective I gained through my master’s in business administration to look beyond the Service Development Department at the business as a whole, partnering with editorial, advertising, and sales. Through that collaboration, I want to support a public-interest information platform with technology while directly driving business growth.
 
-On a personal level, I’m drawn to the broader question of how information spreads through society and shapes people’s judgment—the "information environment." I want to explore high-impact themes such as climate change and misinformation through empirical, data-driven research. That lets me approach the same question of information transmission and impact from two sides: as a practitioner at a news organization and as a researcher.
+On a personal level, I’m drawn to the broader question of how information spreads through society and shapes people’s judgment—the "information environment." I want to explore high-impact themes such as misinformation surrounding climate change through empirical, data-driven research. That lets me approach the same question of information transmission and impact from two sides: as a practitioner at a news organization and as a researcher.
 
 ---
 
