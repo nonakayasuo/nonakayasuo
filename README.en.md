@@ -12,7 +12,6 @@ English | [日本語](README.md)
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,rails,ts,js,html,css,react,nextjs,gatsbyjs,vue,nuxtjs,pinia,php,laravel,sass,tailwind,vite,webpack,mysql,postgres,firebase,docker,kubernetes,aws,gcp,git,github,githubactions,sentry,figma,wordpress" />
 
-
 # 💼 My Resume
 
 - [Site](https://nonakayasuo.github.io/nonakayasuo/README.en.html)
