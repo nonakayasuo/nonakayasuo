@@ -12,7 +12,7 @@
 
 # 🌱 基本情報
 
-- [アディクシィ株式会社](https://adixi.co.jp/) 社員
+- [株式会社朝日新聞社](https://www.asahi.com/) 社員
 - フリーランスエンジニア
 - [NewsLingua](https://newslingua.net/) を開発中（実用も兼ねて）
 

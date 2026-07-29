@@ -29,7 +29,7 @@ I am a full-stack engineer with over seven years of experience, centered on Pyth
 
 I work across the stack from frontend (Next.js, Vue.js, React) and backend (FastAPI, Flask) through cloud infrastructure design and operations, primarily on AWS.
 
-Most recently, as Tech Lead on an AI SaaS engagement for a large manufacturer, I led design and development of a RAG system using LangChain, LangGraph, and MCP. As a freelancer I have also contributed to multiple projects, including mobile apps (Flutter / iOS), web applications, and data platform builds.
+In July 2026 I joined The Asahi Shimbun Company as a software engineer in the Service Development Department, an in-house, AI-native engineering organization. Previously, as Tech Lead on an AI SaaS engagement for a large manufacturer, I led design and development of a RAG system using LangChain, LangGraph, and MCP. As a freelancer I have also contributed to multiple projects, including mobile apps (Flutter / iOS), web applications, and data platform builds.
 
 I focus on applying AI, shaping architecture, and supporting engineering teams—taking work from PoC through production operations.
 
@@ -78,6 +78,31 @@ I plan to apply my experience in application development and AI adoption, togeth
 
 ---
 
+#### Software Engineer, Service Development Department (The Asahi Shimbun Company)
+
+<table>
+  <thead>
+    <tr><th>Period</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jul 2026 –<br>present</td>
+      <td>
+        <b>Employment type:</b> Full-time employee<br><br>
+        <b>Team:</b> Service Development Department — an in-house, AI-native engineering organization (~29 engineers)<br><br>
+        <b>Summary:</b><br>
+        Joined The Asahi Shimbun Company as a software engineer in the Service Development Department, which builds and operates the common CMS platform behind 30+ affiliated media sites and drives a large-scale legacy system replacement.<br><br>
+        <b>Role (onboarding):</b><br>
+        ・Ramping up on the department's in-house, AI-native development practices and existing codebase<br>
+        ・Contributing to the common CMS platform initiative supporting 30+ media sites<br>
+        ・Supporting the legacy system replacement effort
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 #### DX acceleration support for a major homebuilder (Adixie Inc.)
 
 <table>
@@ -86,7 +111,7 @@ I plan to apply my experience in application development and AI adoption, togeth
   </thead>
   <tbody>
     <tr>
-      <td>Jan 2026 –<br>present</td>
+      <td>Jan 2026 –<br>Jun 2026</td>
       <td>
         <b>Employment type:</b> Full-time employee<br><br>
         <b>Team:</b> Engineering: 4 / Total: 6 (partner side)<br>
@@ -127,7 +152,7 @@ I plan to apply my experience in application development and AI adoption, togeth
   </thead>
   <tbody>
     <tr>
-      <td>Sep 2025 –<br>present</td>
+      <td>Sep 2025 –<br>Jun 2026</td>
       <td>
         <b>Employment type:</b> Full-time employee<br><br>
         <b>Team:</b> Engineering: 5 / Total: 10<br>
@@ -173,7 +198,7 @@ I plan to apply my experience in application development and AI adoption, togeth
   </thead>
   <tbody>
     <tr>
-      <td>Mar 2025 –<br>present</td>
+      <td>Mar 2025 –<br>Jun 2026</td>
       <td>
         <b>Employment type:</b> Full-time employee<br><br>
         <b>Team:</b> Engineering: 8 / Total: 12<br>

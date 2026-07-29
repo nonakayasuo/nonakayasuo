@@ -4,14 +4,13 @@ English | [日本語](README.md)
 
 # 🌱 Basic Information
 
-- [ADiXi Inc.](https://adixi.co.jp/) Employee
+- [The Asahi Shimbun Company](https://www.asahi.com/) Employee
 - Freelance Engineer
 - Currently developing [NewsLingua](https://newslingua.net/) (for practical use as well)
 
 # 🚀 My Skill
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,rails,ts,js,html,css,react,nextjs,gatsbyjs,vue,nuxtjs,pinia,php,laravel,sass,tailwind,vite,webpack,mysql,postgres,firebase,docker,kubernetes,aws,gcp,git,github,githubactions,sentry,figma,wordpress" />
-
 
 # 💼 My Resume
 
