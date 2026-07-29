@@ -4,7 +4,7 @@ English | [日本語](README.md)
 
 # 🌱 Basic Information
 
-- [ADiXi Inc.](https://adixi.co.jp/) Employee
+- [The Asahi Shimbun Company](https://www.asahi.com/) Employee
 - Freelance Engineer
 - Currently developing [NewsLingua](https://newslingua.net/) (for practical use as well)
 

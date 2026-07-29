@@ -3,6 +3,7 @@ layout: default
 title: 野中康生の職務経歴書
 description: フルスタックエンジニア（東京）。Python / TypeScript、クラウド・AI を中心とした職務経歴書。
 ---
+
 <div class="web-only">
   <p><a href="https://nonakayasuo.github.io/nonakayasuo/README.en.html">English</a> | 日本語</p>
 </div>
@@ -11,24 +12,22 @@ description: フルスタックエンジニア（東京）。Python / TypeScript
 
 ## 基本情報
 
-
-| 項目名  | 内容                            |
-| ---- | ----------------------------- |
-| 名前   | 野中 康生(のなか やすお)                |
-| 生年月日 | 1993 年 7 月 4 日                |
-| 居住地  | 東京都                           |
-| 最終学歴 | 立命館大学大学院 経営学研究科 企業経営専攻 修了     |
-| 資格   | 普通自動車第一種運転免許、証券アナリスト、日商簿記 2 級 |
-
+| 項目名   | 内容                                                    |
+| -------- | ------------------------------------------------------- |
+| 名前     | 野中 康生(のなか やすお)                                |
+| 生年月日 | 1993 年 7 月 4 日                                       |
+| 居住地   | 東京都                                                  |
+| 最終学歴 | 立命館大学大学院 経営学研究科 企業経営専攻 修了         |
+| 資格     | 普通自動車第一種運転免許、証券アナリスト、日商簿記 2 級 |
 
 ---
 
 ## 職歴要約
 
-Python・TypeScript を軸に 7 年以上の開発経験を持つフルスタックエンジニア。
+Python・TypeScript を軸に 8 年以上の開発経験を持つフルスタックエンジニア。
 フロントエンド（Next.js・Vue.js・React）、バックエンド（FastAPI・Flask）、AWS を中心としたクラウドインフラ設計・構築まで一貫して担当。
 
-直近では大手製造業向け AI SaaS の開発において Tech Lead を務め、LangChain / LangGraph / MCP を活用した RAG システムの設計・開発を主導。フリーランスエンジニアとしても複数のプロジェクトに従事し、モバイルアプリ（Flutter / iOS）・Web アプリ・データ基盤構築など幅広い開発を経験。
+2026 年 7 月より株式会社朝日新聞社 サービス開発部にソフトウェアエンジニアとして参画し、内製・AIネイティブな開発組織で開発を担当。以前は大手製造業向け AI SaaS の開発において Tech Lead を務め、LangChain / LangGraph / MCP を活用した RAG システムの設計・開発を主導。フリーランスエンジニアとしても複数のプロジェクトに従事し、モバイルアプリ（Flutter / iOS）・Web アプリ・データ基盤構築など幅広い開発を経験。
 
 AI 技術の活用、アーキテクチャ設計、チームの技術支援に強みを持ち、PoC から本番運用まで一貫して推進できる。
 
@@ -58,26 +57,49 @@ AI 技術の活用、アーキテクチャ設計、チームの技術支援に�
 
 ## スキル
 
-
-| カテゴリ              | 技術・ツール                                                                                                                                               |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **言語**            | Python（6年）、TypeScript（5年半）、Dart、PHP、Ruby                                                                                                             |
-| **フレームワーク**       | FastAPI、Flask、React.js、Next.js、Vue.js、AngularJS、Laravel、Ruby on Rails、Flutter                                                                        |
-| **AI / LLM**      | LangChain、LangGraph、LangSmith、MCP、Agent Skill、OpenAI API、Azure OpenAI API                                                                            |
-| **AI 開発ツール**      | Cursor、Claude Code                                                                                                                                   |
-| **AWS**           | API Gateway、Bedrock、CDK、CloudFormation、CloudFront、CodeBuild、CodePipeline、EC2、ECS、S3、Lambda、RDS、DynamoDB、Batch、Glue、ECR、EMR、CloudWatch、Athena、SES、SQS |
-| **Google Cloud**  | Cloud Build、Cloud Pub/Sub、Cloud Run、GKE                                                                                                              |
-| **RDB**           | MySQL、PostgreSQL（pgvector）                                                                                                                           |
-| **SaaS / PaaS**   | CircleCI、Firebase、Firestore、GitHub、GitHub Action                                                                                                     |
-| **インフラ / DevOps** | Docker、Terraform、Datadog、Sentry                                                                                                                      |
-| **通信プロトコル**       | GraphQL、gRPC、REST                                                                                                                                    |
-| **ORM / ライブラリ**   | SQLAlchemy、Prisma、RSpec                                                                                                                              |
-| **開発手法**          | アジャイル開発（スクラム）、プロトタイピング開発、MVC モデル                                                                                                                     |
-
+| カテゴリ              | 技術・ツール                                                                                                                                                             |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **言語**              | Python（6年）、TypeScript（5年半）、Dart、PHP、Ruby                                                                                                                      |
+| **フレームワーク**    | FastAPI、Flask、React.js、Next.js、Vue.js、AngularJS、Laravel、Ruby on Rails、Flutter                                                                                    |
+| **AI / LLM**          | LangChain、LangGraph、LangSmith、MCP、Agent Skill、OpenAI API、Azure OpenAI API                                                                                          |
+| **AI 開発ツール**     | Cursor、Claude Code                                                                                                                                                      |
+| **AWS**               | API Gateway、Bedrock、CDK、CloudFormation、CloudFront、CodeBuild、CodePipeline、EC2、ECS、S3、Lambda、RDS、DynamoDB、Batch、Glue、ECR、EMR、CloudWatch、Athena、SES、SQS |
+| **Google Cloud**      | Cloud Build、Cloud Pub/Sub、Cloud Run、GKE                                                                                                                               |
+| **RDB**               | MySQL、PostgreSQL（pgvector）                                                                                                                                            |
+| **SaaS / PaaS**       | CircleCI、Firebase、Firestore、GitHub、GitHub Action                                                                                                                     |
+| **インフラ / DevOps** | Docker、Terraform、Datadog、Sentry                                                                                                                                       |
+| **通信プロトコル**    | GraphQL、gRPC、REST                                                                                                                                                      |
+| **ORM / ライブラリ**  | SQLAlchemy、Prisma、RSpec                                                                                                                                                |
+| **開発手法**          | アジャイル開発（スクラム）、プロトタイピング開発、MVC モデル                                                                                                             |
 
 ---
 
 ## 職務経歴詳細
+
+---
+
+#### ソフトウェアエンジニア／サービス開発部（株式会社朝日新聞社）
+
+<table>
+  <thead>
+    <tr><th>期間</th><th>業務内容</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2026/07 ~<br>現在</td>
+      <td>
+        <b>【雇用形態】</b>正社員<br><br>
+        <b>【チーム編成】</b>サービス開発部 — 内製エンジニア組織（約30名）<br><br>
+        <b>【主な業務】</b><br>
+        株式会社朝日新聞社 サービス開発部にソフトウェアエンジニアとして入社。同部門は、30 以上の加盟メディアサイトを支える CMS の共通基盤化と、大規模なレガシーシステムの刷新を推進している。<br><br>
+        <b>【現在の取り組み（オンボーディング中）】</b><br>
+        ・部門の内製・AIネイティブな開発手法と既存コードベースへのキャッチアップ<br>
+        ・30 以上のメディアサイトを支える CMS 共通基盤化への参画<br>
+        ・レガシーシステム刷新の支援
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -89,7 +111,7 @@ AI 技術の活用、アーキテクチャ設計、チームの技術支援に�
   </thead>
   <tbody>
     <tr>
-      <td>2026/01 ~<br>現在</td>
+      <td>2026/01 ~<br>2026/06</td>
       <td>
         <b>【雇用形態】</b>正社員<br><br>
         <b>【チーム編成】</b>開発：4名 / 全体：6名（パートナー側）<br>
@@ -121,7 +143,6 @@ AI 技術の活用、アーキテクチャ設計、チームの技術支援に�
   </tbody>
 </table>
 
-
 ---
 
 #### 社内DX推進・統合基盤構築（アディクシィ株式会社）
@@ -132,7 +153,7 @@ AI 技術の活用、アーキテクチャ設計、チームの技術支援に�
   </thead>
   <tbody>
     <tr>
-      <td>2025/09 ~<br>現在</td>
+      <td>2025/09 ~<br>2026/06</td>
       <td>
         <b>【雇用形態】</b>正社員<br><br>
         <b>【チーム編成】</b>開発：5名 / 全体：10名<br>
@@ -178,7 +199,7 @@ AI 技術の活用、アーキテクチャ設計、チームの技術支援に�
   </thead>
   <tbody>
     <tr>
-      <td>2025/03 ~<br>現在</td>
+      <td>2025/03 ~<br>2026/06</td>
       <td>
         <b>【雇用形態】</b>正社員<br><br>
         <b>【チーム編成】</b>開発：8名 / 全体：12名<br>
@@ -603,4 +624,3 @@ AI 技術の活用、アーキテクチャ設計、チームの技術支援に�
 - アコースティックギター
 - サックス
 - 博物館・美術館めぐり
-
