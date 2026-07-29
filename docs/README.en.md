@@ -25,7 +25,7 @@ description: Full-stack engineer, Tokyo — English resume.
 
 ## Professional summary
 
-I am a full-stack engineer with over seven years of experience, centered on Python and TypeScript.
+I am a full-stack engineer with over eight years of experience, centered on Python and TypeScript.
 
 I work across the stack from frontend (Next.js, Vue.js, React) and backend (FastAPI, Flask) through cloud infrastructure design and operations, primarily on AWS.
 
@@ -37,11 +37,11 @@ I focus on applying AI, shaping architecture, and supporting engineering teams�
 
 ## Self-introduction
 
-I am a full-stack engineer who can own delivery from frontend and backend through cloud infrastructure and AI agent development. With Python and TypeScript as my core stack and over seven years of experience, I have recently led RAG system design and development as Tech Lead using LangChain, LangGraph, and MCP.
+I am a full-stack engineer who can own delivery from frontend and backend through cloud infrastructure and AI agent development. With Python and TypeScript as my core stack and over eight years of experience, I led RAG system design and development as Tech Lead on an AI SaaS engagement, using LangChain, LangGraph, and MCP.
 
 On the technical side, I design and operate infrastructure on AWS (EC2, Lambda, ECS, CDK, and more) and Google Cloud (Cloud Run, GKE), implement frontends with Next.js, AngularJS, and Vue.js, and build backends with FastAPI and Flask. I actively adopt modern AI development tools such as Cursor and Claude Code.
 
-In my work I try to anticipate technical issues by looking at project-wide architecture, not only individual requirements. As Tech Lead I support teammates through technical guidance, code review, and design decisions to improve quality and productivity.
+In my work I try to anticipate technical issues by looking at project-wide architecture, not only individual requirements. As Tech Lead, I supported teammates through technical guidance, code review, and design decisions, improving quality and productivity.
 
 I keep learning in AI, blockchain, design, and adjacent areas, and aim to choose the right technologies and deliver end-to-end solutions for business problems.
 
@@ -49,11 +49,13 @@ I keep learning in AI, blockchain, design, and adjacent areas, and aim to choose
 
 ## What I want to do next
 
-As a full-stack engineer and Tech Lead I have led technical delivery for web applications, SaaS products, and internal DX initiatives. I still find engineering rewarding, and I want to use technology not only as an implementation tool but in ways that connect more deeply to **business decisions**.
+Since July 2026 I have been taking on a new challenge as a full-stack engineer at The Asahi Shimbun Company’s Service Development Department, working to connect technology more directly to **business decisions** rather than treating it as a pure implementation tool.
 
-In particular, I want to work in a media or content company, understand market needs and business strategy, maximize product value from a technical perspective, and help drive business growth directly.
+I also find real meaning in supporting the public-interest mission of a news organization through technology. My immediate focus is to build trust by delivering solidly on the work in front of me while deepening my understanding of the team’s development practices. In parallel, I want to bring my experience as a full-stack engineer and Tech Lead back to the organization—introducing ADRs and standardizing AI-native development practices—to help junior engineers grow more self-sufficient.
 
-I plan to apply my experience in application development and AI adoption, together with full-stack depth, to take stronger business-side ownership of outcomes and to keep tying technology to the core of the business.
+Over the mid-to-long term, I want to apply the business perspective I gained through my master’s in business administration to look beyond the Service Development Department at the business as a whole, partnering with editorial, advertising, and sales. Through that collaboration, I want to support a public-interest information platform with technology while directly driving business growth.
+
+On a personal level, I’m drawn to the broader question of how information spreads through society and shapes people’s judgment—the "information environment." I want to explore high-impact themes such as misinformation surrounding climate change through empirical, data-driven research. That lets me approach the same question of information transmission and impact from two sides: as a practitioner at a news organization and as a researcher.
 
 ---
 
