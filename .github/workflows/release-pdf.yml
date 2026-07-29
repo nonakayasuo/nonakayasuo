@@ -35,6 +35,10 @@ jobs:
             NEW_TAG="v${major}.${minor}.$((patch + 1))"
           fi
           echo "tag=$NEW_TAG" >> "$GITHUB_OUTPUT"
+      - name: Install Japanese CJK fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-cjk
       - name: Run oven-sh/setup-bun
         uses: oven-sh/setup-bun@4bc047ad259df6fc24a6c9b0f9a0cb08cf17fbe5 # v2
       - name: Run bun install
